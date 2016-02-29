@@ -1,0 +1,1146 @@
+I, [2016-02-25T13:25:21.454111 #5518]  INFO -- : listening on addr=/var/run/rails-app-unicorn.sock fd=9
+I, [2016-02-25T13:25:21.454193 #5518]  INFO -- : worker=0 spawning...
+I, [2016-02-25T13:25:21.454651 #5518]  INFO -- : worker=1 spawning...
+I, [2016-02-25T13:25:21.455008 #5518]  INFO -- : master process ready
+I, [2016-02-25T13:25:21.455580 #5522]  INFO -- : worker=0 spawned pid=5522
+I, [2016-02-25T13:25:21.455672 #5522]  INFO -- : Refreshing Gem list
+I, [2016-02-25T13:25:21.456522 #5524]  INFO -- : worker=1 spawned pid=5524
+I, [2016-02-25T13:25:21.456644 #5524]  INFO -- : Refreshing Gem list
+I, [2016-02-25T13:25:23.811317 #5524]  INFO -- : worker=1 ready
+I, [2016-02-25T13:25:23.813131 #5522]  INFO -- : worker=0 ready
+I, [2016-02-25T13:25:46.250577 #5518]  INFO -- : reaped #<Process::Status: pid 5522 exit 0> worker=0
+I, [2016-02-25T13:25:46.250669 #5518]  INFO -- : reaped #<Process::Status: pid 5524 exit 0> worker=1
+I, [2016-02-25T13:25:46.250737 #5518]  INFO -- : master complete
+I, [2016-02-25T13:54:20.905883 #5760]  INFO -- : unlinking existing socket=/var/run/rails-app-unicorn.sock
+I, [2016-02-25T13:54:20.905985 #5760]  INFO -- : listening on addr=/var/run/rails-app-unicorn.sock fd=9
+I, [2016-02-25T13:54:20.906043 #5760]  INFO -- : worker=0 spawning...
+I, [2016-02-25T13:54:20.906485 #5760]  INFO -- : worker=1 spawning...
+I, [2016-02-25T13:54:20.906822 #5760]  INFO -- : master process ready
+I, [2016-02-25T13:54:20.907371 #5764]  INFO -- : worker=0 spawned pid=5764
+I, [2016-02-25T13:54:20.907457 #5764]  INFO -- : Refreshing Gem list
+I, [2016-02-25T13:54:20.910229 #5766]  INFO -- : worker=1 spawned pid=5766
+I, [2016-02-25T13:54:20.910317 #5766]  INFO -- : Refreshing Gem list
+I, [2016-02-25T13:54:22.970090 #5764]  INFO -- : worker=0 ready
+I, [2016-02-25T13:54:22.970949 #5766]  INFO -- : worker=1 ready
+I, [2016-02-25T13:55:03.645186 #5760]  INFO -- : reaped #<Process::Status: pid 5764 exit 0> worker=0
+I, [2016-02-25T13:55:03.645266 #5760]  INFO -- : reaped #<Process::Status: pid 5766 exit 0> worker=1
+I, [2016-02-25T13:55:03.645329 #5760]  INFO -- : master complete
+I, [2016-02-25T14:02:14.301381 #5894]  INFO -- : unlinking existing socket=/var/run/rails-app-unicorn.sock
+I, [2016-02-25T14:02:14.301482 #5894]  INFO -- : listening on addr=/var/run/rails-app-unicorn.sock fd=9
+I, [2016-02-25T14:02:14.301567 #5894]  INFO -- : worker=0 spawning...
+I, [2016-02-25T14:02:14.302101 #5894]  INFO -- : worker=1 spawning...
+I, [2016-02-25T14:02:14.302435 #5894]  INFO -- : master process ready
+I, [2016-02-25T14:02:14.302950 #5898]  INFO -- : worker=0 spawned pid=5898
+I, [2016-02-25T14:02:14.303049 #5898]  INFO -- : Refreshing Gem list
+I, [2016-02-25T14:02:14.306171 #5900]  INFO -- : worker=1 spawned pid=5900
+I, [2016-02-25T14:02:14.306256 #5900]  INFO -- : Refreshing Gem list
+I, [2016-02-25T14:02:16.356019 #5900]  INFO -- : worker=1 ready
+I, [2016-02-25T14:02:16.356239 #5898]  INFO -- : worker=0 ready
+I, [2016-02-25T14:02:39.860728 #5894]  INFO -- : reaped #<Process::Status: pid 5898 exit 0> worker=0
+I, [2016-02-25T14:02:39.860806 #5894]  INFO -- : reaped #<Process::Status: pid 5900 exit 0> worker=1
+I, [2016-02-25T14:02:39.860867 #5894]  INFO -- : master complete
+I, [2016-02-26T00:48:52.125406 #8472]  INFO -- : unlinking existing socket=/var/run/rails-app-unicorn.sock
+I, [2016-02-26T00:48:52.125506 #8472]  INFO -- : listening on addr=/var/run/rails-app-unicorn.sock fd=9
+I, [2016-02-26T00:48:52.125566 #8472]  INFO -- : worker=0 spawning...
+I, [2016-02-26T00:48:52.126053 #8472]  INFO -- : worker=1 spawning...
+I, [2016-02-26T00:48:52.126392 #8472]  INFO -- : master process ready
+I, [2016-02-26T00:48:52.126914 #8476]  INFO -- : worker=0 spawned pid=8476
+I, [2016-02-26T00:48:52.127005 #8476]  INFO -- : Refreshing Gem list
+I, [2016-02-26T00:48:52.130148 #8478]  INFO -- : worker=1 spawned pid=8478
+I, [2016-02-26T00:48:52.130236 #8478]  INFO -- : Refreshing Gem list
+I, [2016-02-26T00:48:54.145117 #8476]  INFO -- : worker=0 ready
+I, [2016-02-26T00:48:54.145433 #8478]  INFO -- : worker=1 ready
+I, [2016-02-26T00:49:27.339224 #8472]  INFO -- : reaped #<Process::Status: pid 8476 exit 0> worker=0
+I, [2016-02-26T00:49:27.339321 #8472]  INFO -- : reaped #<Process::Status: pid 8478 exit 0> worker=1
+I, [2016-02-26T00:49:27.339387 #8472]  INFO -- : master complete
+I, [2016-02-26T07:47:43.581460 #10241]  INFO -- : Refreshing Gem list
+I, [2016-02-26T07:47:44.733896 #10241]  INFO -- : unlinking existing socket=/var/run/rails-app-unicorn.sock
+I, [2016-02-26T07:47:44.734055 #10241]  INFO -- : listening on addr=/var/run/rails-app-unicorn.sock fd=10
+I, [2016-02-26T07:47:44.745143 #10241]  INFO -- : master process ready
+I, [2016-02-26T07:47:44.746297 #10272]  INFO -- : worker=0 ready
+I, [2016-02-26T07:47:44.747278 #10274]  INFO -- : worker=1 ready
+I, [2016-02-26T07:48:00.719969 #10241]  INFO -- : reaped #<Process::Status: pid 10272 exit 0> worker=0
+I, [2016-02-26T07:48:00.720088 #10241]  INFO -- : reaped #<Process::Status: pid 10274 exit 0> worker=1
+I, [2016-02-26T07:48:00.720156 #10241]  INFO -- : master complete
+I, [2016-02-26T07:48:05.267256 #10313]  INFO -- : Refreshing Gem list
+I, [2016-02-26T07:48:06.468094 #10313]  INFO -- : unlinking existing socket=/var/run/rails-app-unicorn.sock
+I, [2016-02-26T07:48:06.468224 #10313]  INFO -- : listening on addr=/var/run/rails-app-unicorn.sock fd=11
+I, [2016-02-26T07:48:06.478634 #10313]  INFO -- : master process ready
+I, [2016-02-26T07:48:06.486416 #10317]  INFO -- : worker=0 ready
+I, [2016-02-26T07:48:06.487318 #10319]  INFO -- : worker=1 ready
+I, [2016-02-26T07:54:21.003078 #10313]  INFO -- : reaped #<Process::Status: pid 10317 exit 0> worker=0
+I, [2016-02-26T07:54:21.003185 #10313]  INFO -- : reaped #<Process::Status: pid 10319 exit 0> worker=1
+I, [2016-02-26T07:54:21.003278 #10313]  INFO -- : master complete
+I, [2016-02-26T08:46:41.387218 #10668]  INFO -- : Refreshing Gem list
+I, [2016-02-26T08:46:42.581442 #10668]  INFO -- : unlinking existing socket=/var/run/rails-app-unicorn.sock
+I, [2016-02-26T08:46:42.581592 #10668]  INFO -- : listening on addr=/var/run/rails-app-unicorn.sock fd=11
+I, [2016-02-26T08:46:42.592122 #10668]  INFO -- : master process ready
+I, [2016-02-26T08:46:42.598710 #10672]  INFO -- : worker=0 ready
+I, [2016-02-26T08:46:42.599767 #10674]  INFO -- : worker=1 ready
+E, [2016-02-26T08:47:26.273128 #10672] ERROR -- : app error: Missing `secret_token` and `secret_key_base` for 'production' environment, set these values in `config/secrets.yml` (RuntimeError)
+E, [2016-02-26T08:47:26.273225 #10672] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/railties-4.2.3/lib/rails/application.rb:534:in `validate_secret_key_config!'
+E, [2016-02-26T08:47:26.273252 #10672] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/railties-4.2.3/lib/rails/application.rb:246:in `env_config'
+E, [2016-02-26T08:47:26.273279 #10672] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/railties-4.2.3/lib/rails/engine.rb:514:in `call'
+E, [2016-02-26T08:47:26.273302 #10672] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/railties-4.2.3/lib/rails/application.rb:165:in `call'
+E, [2016-02-26T08:47:26.273320 #10672] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:562:in `process_client'
+E, [2016-02-26T08:47:26.273341 #10672] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:658:in `worker_loop'
+E, [2016-02-26T08:47:26.273362 #10672] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:508:in `spawn_missing_workers'
+E, [2016-02-26T08:47:26.273383 #10672] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:132:in `start'
+E, [2016-02-26T08:47:26.273401 #10672] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/bin/unicorn:126:in `<top (required)>'
+E, [2016-02-26T08:47:26.273485 #10672] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `load'
+E, [2016-02-26T08:47:26.273503 #10672] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `<main>'
+E, [2016-02-26T08:47:43.833490 #10672] ERROR -- : app error: Missing `secret_token` and `secret_key_base` for 'production' environment, set these values in `config/secrets.yml` (RuntimeError)
+E, [2016-02-26T08:47:43.833558 #10672] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/railties-4.2.3/lib/rails/application.rb:534:in `validate_secret_key_config!'
+E, [2016-02-26T08:47:43.833581 #10672] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/railties-4.2.3/lib/rails/application.rb:246:in `env_config'
+E, [2016-02-26T08:47:43.833615 #10672] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/railties-4.2.3/lib/rails/engine.rb:514:in `call'
+E, [2016-02-26T08:47:43.833636 #10672] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/railties-4.2.3/lib/rails/application.rb:165:in `call'
+E, [2016-02-26T08:47:43.833657 #10672] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:562:in `process_client'
+E, [2016-02-26T08:47:43.833677 #10672] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:658:in `worker_loop'
+E, [2016-02-26T08:47:43.833696 #10672] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:508:in `spawn_missing_workers'
+E, [2016-02-26T08:47:43.833715 #10672] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:132:in `start'
+E, [2016-02-26T08:47:43.833734 #10672] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/bin/unicorn:126:in `<top (required)>'
+E, [2016-02-26T08:47:43.833750 #10672] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `load'
+E, [2016-02-26T08:47:43.833770 #10672] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `<main>'
+I, [2016-02-26T08:53:07.372561 #10668]  INFO -- : reaped #<Process::Status: pid 10672 exit 0> worker=0
+I, [2016-02-26T08:53:07.372694 #10668]  INFO -- : reaped #<Process::Status: pid 10674 exit 0> worker=1
+I, [2016-02-26T08:53:07.372763 #10668]  INFO -- : master complete
+I, [2016-02-26T08:54:29.119323 #10828]  INFO -- : Refreshing Gem list
+I, [2016-02-26T08:54:30.291099 #10828]  INFO -- : unlinking existing socket=/var/run/rails-app-unicorn.sock
+I, [2016-02-26T08:54:30.291251 #10828]  INFO -- : listening on addr=/var/run/rails-app-unicorn.sock fd=11
+I, [2016-02-26T08:54:30.301999 #10828]  INFO -- : master process ready
+I, [2016-02-26T08:54:30.306901 #10832]  INFO -- : worker=0 ready
+I, [2016-02-26T08:54:30.310553 #10834]  INFO -- : worker=1 ready
+E, [2016-02-26T08:54:52.366410 #10834] ERROR -- : app error: Missing `secret_token` and `secret_key_base` for 'production' environment, set these values in `config/secrets.yml` (RuntimeError)
+E, [2016-02-26T08:54:52.366493 #10834] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/railties-4.2.3/lib/rails/application.rb:534:in `validate_secret_key_config!'
+E, [2016-02-26T08:54:52.366514 #10834] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/railties-4.2.3/lib/rails/application.rb:246:in `env_config'
+E, [2016-02-26T08:54:52.366531 #10834] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/railties-4.2.3/lib/rails/engine.rb:514:in `call'
+E, [2016-02-26T08:54:52.366550 #10834] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/railties-4.2.3/lib/rails/application.rb:165:in `call'
+E, [2016-02-26T08:54:52.366566 #10834] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:562:in `process_client'
+E, [2016-02-26T08:54:52.366582 #10834] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:658:in `worker_loop'
+E, [2016-02-26T08:54:52.366597 #10834] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:508:in `spawn_missing_workers'
+E, [2016-02-26T08:54:52.366620 #10834] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:132:in `start'
+E, [2016-02-26T08:54:52.366650 #10834] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/bin/unicorn:126:in `<top (required)>'
+E, [2016-02-26T08:54:52.366670 #10834] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `load'
+E, [2016-02-26T08:54:52.366690 #10834] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `<main>'
+E, [2016-02-26T08:54:58.967868 #10832] ERROR -- : app error: Missing `secret_token` and `secret_key_base` for 'production' environment, set these values in `config/secrets.yml` (RuntimeError)
+E, [2016-02-26T08:54:58.967955 #10832] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/railties-4.2.3/lib/rails/application.rb:534:in `validate_secret_key_config!'
+E, [2016-02-26T08:54:58.967978 #10832] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/railties-4.2.3/lib/rails/application.rb:246:in `env_config'
+E, [2016-02-26T08:54:58.967996 #10832] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/railties-4.2.3/lib/rails/engine.rb:514:in `call'
+E, [2016-02-26T08:54:58.968013 #10832] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/railties-4.2.3/lib/rails/application.rb:165:in `call'
+E, [2016-02-26T08:54:58.968030 #10832] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:562:in `process_client'
+E, [2016-02-26T08:54:58.968046 #10832] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:658:in `worker_loop'
+E, [2016-02-26T08:54:58.968065 #10832] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:508:in `spawn_missing_workers'
+E, [2016-02-26T08:54:58.968083 #10832] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:132:in `start'
+E, [2016-02-26T08:54:58.968100 #10832] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/bin/unicorn:126:in `<top (required)>'
+E, [2016-02-26T08:54:58.968116 #10832] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `load'
+E, [2016-02-26T08:54:58.968137 #10832] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `<main>'
+E, [2016-02-26T08:55:02.755654 #10834] ERROR -- : app error: Missing `secret_token` and `secret_key_base` for 'production' environment, set these values in `config/secrets.yml` (RuntimeError)
+E, [2016-02-26T08:55:02.755738 #10834] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/railties-4.2.3/lib/rails/application.rb:534:in `validate_secret_key_config!'
+E, [2016-02-26T08:55:02.755764 #10834] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/railties-4.2.3/lib/rails/application.rb:246:in `env_config'
+E, [2016-02-26T08:55:02.755786 #10834] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/railties-4.2.3/lib/rails/engine.rb:514:in `call'
+E, [2016-02-26T08:55:02.755819 #10834] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/railties-4.2.3/lib/rails/application.rb:165:in `call'
+E, [2016-02-26T08:55:02.755841 #10834] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:562:in `process_client'
+E, [2016-02-26T08:55:02.755858 #10834] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:658:in `worker_loop'
+E, [2016-02-26T08:55:02.755879 #10834] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:508:in `spawn_missing_workers'
+E, [2016-02-26T08:55:02.755899 #10834] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:132:in `start'
+E, [2016-02-26T08:55:02.755926 #10834] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/bin/unicorn:126:in `<top (required)>'
+E, [2016-02-26T08:55:02.755945 #10834] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `load'
+E, [2016-02-26T08:55:02.755967 #10834] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `<main>'
+E, [2016-02-26T11:08:37.049888 #10832] ERROR -- : app error: Missing `secret_token` and `secret_key_base` for 'production' environment, set these values in `config/secrets.yml` (RuntimeError)
+E, [2016-02-26T11:08:37.049961 #10832] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/railties-4.2.3/lib/rails/application.rb:534:in `validate_secret_key_config!'
+E, [2016-02-26T11:08:37.049986 #10832] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/railties-4.2.3/lib/rails/application.rb:246:in `env_config'
+E, [2016-02-26T11:08:37.050003 #10832] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/railties-4.2.3/lib/rails/engine.rb:514:in `call'
+E, [2016-02-26T11:08:37.050037 #10832] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/railties-4.2.3/lib/rails/application.rb:165:in `call'
+E, [2016-02-26T11:08:37.050060 #10832] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:562:in `process_client'
+E, [2016-02-26T11:08:37.050080 #10832] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:658:in `worker_loop'
+E, [2016-02-26T11:08:37.050124 #10832] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:508:in `spawn_missing_workers'
+E, [2016-02-26T11:08:37.050143 #10832] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:132:in `start'
+E, [2016-02-26T11:08:37.050159 #10832] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/bin/unicorn:126:in `<top (required)>'
+E, [2016-02-26T11:08:37.050179 #10832] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `load'
+E, [2016-02-26T11:08:37.050198 #10832] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `<main>'
+E, [2016-02-26T11:08:38.363600 #10834] ERROR -- : app error: Missing `secret_token` and `secret_key_base` for 'production' environment, set these values in `config/secrets.yml` (RuntimeError)
+E, [2016-02-26T11:08:38.363666 #10834] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/railties-4.2.3/lib/rails/application.rb:534:in `validate_secret_key_config!'
+E, [2016-02-26T11:08:38.363686 #10834] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/railties-4.2.3/lib/rails/application.rb:246:in `env_config'
+E, [2016-02-26T11:08:38.363708 #10834] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/railties-4.2.3/lib/rails/engine.rb:514:in `call'
+E, [2016-02-26T11:08:38.363728 #10834] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/railties-4.2.3/lib/rails/application.rb:165:in `call'
+E, [2016-02-26T11:08:38.363745 #10834] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:562:in `process_client'
+E, [2016-02-26T11:08:38.363764 #10834] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:658:in `worker_loop'
+E, [2016-02-26T11:08:38.363785 #10834] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:508:in `spawn_missing_workers'
+E, [2016-02-26T11:08:38.363830 #10834] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:132:in `start'
+E, [2016-02-26T11:08:38.363846 #10834] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/bin/unicorn:126:in `<top (required)>'
+E, [2016-02-26T11:08:38.363862 #10834] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `load'
+E, [2016-02-26T11:08:38.363887 #10834] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `<main>'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:195:in `pid=': Already running on PID:10828 (or pid=/var/run/rails-app-unicorn.pid is stale) (ArgumentError)
+	from /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:127:in `start'
+	from /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/bin/unicorn:126:in `<top (required)>'
+	from /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `load'
+	from /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `<main>'
+E, [2016-02-26T11:23:56.274644 #10834] ERROR -- : app error: Missing `secret_token` and `secret_key_base` for 'production' environment, set these values in `config/secrets.yml` (RuntimeError)
+E, [2016-02-26T11:23:56.274721 #10834] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/railties-4.2.3/lib/rails/application.rb:534:in `validate_secret_key_config!'
+E, [2016-02-26T11:23:56.274748 #10834] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/railties-4.2.3/lib/rails/application.rb:246:in `env_config'
+E, [2016-02-26T11:23:56.274772 #10834] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/railties-4.2.3/lib/rails/engine.rb:514:in `call'
+E, [2016-02-26T11:23:56.274790 #10834] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/railties-4.2.3/lib/rails/application.rb:165:in `call'
+E, [2016-02-26T11:23:56.274812 #10834] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:562:in `process_client'
+E, [2016-02-26T11:23:56.274835 #10834] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:658:in `worker_loop'
+E, [2016-02-26T11:23:56.274949 #10834] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:508:in `spawn_missing_workers'
+E, [2016-02-26T11:23:56.274969 #10834] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:132:in `start'
+E, [2016-02-26T11:23:56.274986 #10834] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/bin/unicorn:126:in `<top (required)>'
+E, [2016-02-26T11:23:56.275021 #10834] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `load'
+E, [2016-02-26T11:23:56.275042 #10834] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `<main>'
+E, [2016-02-26T11:23:56.568897 #10832] ERROR -- : app error: Missing `secret_token` and `secret_key_base` for 'production' environment, set these values in `config/secrets.yml` (RuntimeError)
+E, [2016-02-26T11:23:56.568970 #10832] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/railties-4.2.3/lib/rails/application.rb:534:in `validate_secret_key_config!'
+E, [2016-02-26T11:23:56.568991 #10832] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/railties-4.2.3/lib/rails/application.rb:246:in `env_config'
+E, [2016-02-26T11:23:56.569009 #10832] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/railties-4.2.3/lib/rails/engine.rb:514:in `call'
+E, [2016-02-26T11:23:56.569026 #10832] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/railties-4.2.3/lib/rails/application.rb:165:in `call'
+E, [2016-02-26T11:23:56.569042 #10832] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:562:in `process_client'
+E, [2016-02-26T11:23:56.569058 #10832] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:658:in `worker_loop'
+E, [2016-02-26T11:23:56.569074 #10832] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:508:in `spawn_missing_workers'
+E, [2016-02-26T11:23:56.569111 #10832] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:132:in `start'
+E, [2016-02-26T11:23:56.569135 #10832] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/bin/unicorn:126:in `<top (required)>'
+E, [2016-02-26T11:23:56.569153 #10832] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `load'
+E, [2016-02-26T11:23:56.569173 #10832] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `<main>'
+I, [2016-02-26T11:24:21.247171 #10828]  INFO -- : reaped #<Process::Status: pid 10832 exit 0> worker=0
+I, [2016-02-26T11:24:21.247287 #10828]  INFO -- : reaped #<Process::Status: pid 10834 exit 0> worker=1
+I, [2016-02-26T11:24:21.247346 #10828]  INFO -- : master complete
+I, [2016-02-26T11:24:41.309960 #11468]  INFO -- : Refreshing Gem list
+I, [2016-02-26T11:24:42.479646 #11468]  INFO -- : unlinking existing socket=/var/run/rails-app-unicorn.sock
+I, [2016-02-26T11:24:42.479782 #11468]  INFO -- : listening on addr=/var/run/rails-app-unicorn.sock fd=11
+I, [2016-02-26T11:24:42.490341 #11468]  INFO -- : master process ready
+I, [2016-02-26T11:24:42.498702 #11472]  INFO -- : worker=0 ready
+I, [2016-02-26T11:24:42.499789 #11474]  INFO -- : worker=1 ready
+E, [2016-02-26T11:25:17.999345 #11474] ERROR -- : app error: Missing `secret_token` and `secret_key_base` for 'production' environment, set these values in `config/secrets.yml` (RuntimeError)
+E, [2016-02-26T11:25:17.999509 #11474] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/railties-4.2.3/lib/rails/application.rb:534:in `validate_secret_key_config!'
+E, [2016-02-26T11:25:17.999536 #11474] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/railties-4.2.3/lib/rails/application.rb:246:in `env_config'
+E, [2016-02-26T11:25:17.999554 #11474] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/railties-4.2.3/lib/rails/engine.rb:514:in `call'
+E, [2016-02-26T11:25:17.999571 #11474] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/railties-4.2.3/lib/rails/application.rb:165:in `call'
+E, [2016-02-26T11:25:17.999588 #11474] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:562:in `process_client'
+E, [2016-02-26T11:25:17.999604 #11474] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:658:in `worker_loop'
+E, [2016-02-26T11:25:17.999621 #11474] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:508:in `spawn_missing_workers'
+E, [2016-02-26T11:25:17.999638 #11474] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:132:in `start'
+E, [2016-02-26T11:25:17.999654 #11474] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/bin/unicorn:126:in `<top (required)>'
+E, [2016-02-26T11:25:17.999671 #11474] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `load'
+E, [2016-02-26T11:25:17.999687 #11474] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `<main>'
+E, [2016-02-26T11:47:09.476666 #11474] ERROR -- : app error: Missing `secret_token` and `secret_key_base` for 'production' environment, set these values in `config/secrets.yml` (RuntimeError)
+E, [2016-02-26T11:47:09.476764 #11474] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/railties-4.2.3/lib/rails/application.rb:534:in `validate_secret_key_config!'
+E, [2016-02-26T11:47:09.476787 #11474] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/railties-4.2.3/lib/rails/application.rb:246:in `env_config'
+E, [2016-02-26T11:47:09.476809 #11474] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/railties-4.2.3/lib/rails/engine.rb:514:in `call'
+E, [2016-02-26T11:47:09.476867 #11474] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/railties-4.2.3/lib/rails/application.rb:165:in `call'
+E, [2016-02-26T11:47:09.476916 #11474] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:562:in `process_client'
+E, [2016-02-26T11:47:09.476935 #11474] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:658:in `worker_loop'
+E, [2016-02-26T11:47:09.476951 #11474] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:508:in `spawn_missing_workers'
+E, [2016-02-26T11:47:09.476986 #11474] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:132:in `start'
+E, [2016-02-26T11:47:09.477002 #11474] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/bin/unicorn:126:in `<top (required)>'
+E, [2016-02-26T11:47:09.477023 #11474] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `load'
+E, [2016-02-26T11:47:09.477045 #11474] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `<main>'
+E, [2016-02-26T11:48:42.067474 #11474] ERROR -- : app error: Missing `secret_token` and `secret_key_base` for 'production' environment, set these values in `config/secrets.yml` (RuntimeError)
+E, [2016-02-26T11:48:42.067574 #11474] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/railties-4.2.3/lib/rails/application.rb:534:in `validate_secret_key_config!'
+E, [2016-02-26T11:48:42.067602 #11474] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/railties-4.2.3/lib/rails/application.rb:246:in `env_config'
+E, [2016-02-26T11:48:42.067626 #11474] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/railties-4.2.3/lib/rails/engine.rb:514:in `call'
+E, [2016-02-26T11:48:42.067647 #11474] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/railties-4.2.3/lib/rails/application.rb:165:in `call'
+E, [2016-02-26T11:48:42.067669 #11474] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:562:in `process_client'
+E, [2016-02-26T11:48:42.067798 #11474] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:658:in `worker_loop'
+E, [2016-02-26T11:48:42.067818 #11474] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:508:in `spawn_missing_workers'
+E, [2016-02-26T11:48:42.067834 #11474] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:132:in `start'
+E, [2016-02-26T11:48:42.067850 #11474] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/bin/unicorn:126:in `<top (required)>'
+E, [2016-02-26T11:48:42.067866 #11474] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `load'
+E, [2016-02-26T11:48:42.067881 #11474] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `<main>'
+I, [2016-02-26T12:38:42.189531 #11468]  INFO -- : reaped #<Process::Status: pid 11472 exit 0> worker=0
+I, [2016-02-26T12:38:42.189630 #11468]  INFO -- : reaped #<Process::Status: pid 11474 exit 0> worker=1
+I, [2016-02-26T12:38:42.189690 #11468]  INFO -- : master complete
+I, [2016-02-26T12:39:32.514002 #11878]  INFO -- : Refreshing Gem list
+I, [2016-02-26T12:39:33.747221 #11878]  INFO -- : unlinking existing socket=/var/run/rails-app-unicorn.sock
+I, [2016-02-26T12:39:33.747382 #11878]  INFO -- : listening on addr=/var/run/rails-app-unicorn.sock fd=11
+I, [2016-02-26T12:39:33.758090 #11878]  INFO -- : master process ready
+I, [2016-02-26T12:39:33.762858 #11882]  INFO -- : worker=0 ready
+I, [2016-02-26T12:39:33.766864 #11884]  INFO -- : worker=1 ready
+I, [2016-02-26T12:55:17.228574 #11878]  INFO -- : reaped #<Process::Status: pid 11882 exit 0> worker=0
+I, [2016-02-26T12:55:17.228667 #11878]  INFO -- : reaped #<Process::Status: pid 11884 exit 0> worker=1
+I, [2016-02-26T12:55:17.228724 #11878]  INFO -- : master complete
+I, [2016-02-27T11:44:24.374782 #7948]  INFO -- : Refreshing Gem list
+I, [2016-02-27T11:44:26.556585 #7948]  INFO -- : listening on addr=/var/run/rails-app-unicorn.sock fd=11
+I, [2016-02-27T11:44:26.624051 #7948]  INFO -- : master process ready
+I, [2016-02-27T11:44:26.631697 #7952]  INFO -- : worker=0 ready
+I, [2016-02-27T11:44:26.632658 #7954]  INFO -- : worker=1 ready
+I, [2016-02-27T11:45:26.712372 #7948]  INFO -- : reaped #<Process::Status: pid 7952 exit 0> worker=0
+I, [2016-02-27T11:45:26.712481 #7948]  INFO -- : reaped #<Process::Status: pid 7954 exit 0> worker=1
+I, [2016-02-27T11:45:26.712541 #7948]  INFO -- : master complete
+I, [2016-02-27T11:56:39.859346 #8056]  INFO -- : Refreshing Gem list
+I, [2016-02-27T11:56:41.019567 #8056]  INFO -- : unlinking existing socket=/var/run/rails-app-unicorn.sock
+I, [2016-02-27T11:56:41.019699 #8056]  INFO -- : listening on addr=/var/run/rails-app-unicorn.sock fd=11
+I, [2016-02-27T11:56:41.030260 #8056]  INFO -- : master process ready
+I, [2016-02-27T11:56:41.036256 #8060]  INFO -- : worker=0 ready
+I, [2016-02-27T11:56:41.039033 #8062]  INFO -- : worker=1 ready
+E, [2016-02-27T11:56:55.114836 #8062] ERROR -- : app error: Missing `secret_token` and `secret_key_base` for 'production' environment, set these values in `config/secrets.yml` (RuntimeError)
+E, [2016-02-27T11:56:55.114921 #8062] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/railties-4.2.3/lib/rails/application.rb:534:in `validate_secret_key_config!'
+E, [2016-02-27T11:56:55.114946 #8062] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/railties-4.2.3/lib/rails/application.rb:246:in `env_config'
+E, [2016-02-27T11:56:55.114963 #8062] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/railties-4.2.3/lib/rails/engine.rb:514:in `call'
+E, [2016-02-27T11:56:55.114978 #8062] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/railties-4.2.3/lib/rails/application.rb:165:in `call'
+E, [2016-02-27T11:56:55.114997 #8062] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:562:in `process_client'
+E, [2016-02-27T11:56:55.115017 #8062] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:658:in `worker_loop'
+E, [2016-02-27T11:56:55.115035 #8062] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:508:in `spawn_missing_workers'
+E, [2016-02-27T11:56:55.115099 #8062] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:132:in `start'
+E, [2016-02-27T11:56:55.115120 #8062] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/bin/unicorn:126:in `<top (required)>'
+E, [2016-02-27T11:56:55.115139 #8062] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `load'
+E, [2016-02-27T11:56:55.115158 #8062] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `<main>'
+I, [2016-02-27T11:58:13.605611 #8056]  INFO -- : reaped #<Process::Status: pid 8060 exit 0> worker=0
+I, [2016-02-27T11:58:13.605704 #8056]  INFO -- : reaped #<Process::Status: pid 8062 exit 0> worker=1
+I, [2016-02-27T11:58:13.605776 #8056]  INFO -- : master complete
+I, [2016-02-27T11:58:59.759361 #8117]  INFO -- : Refreshing Gem list
+I, [2016-02-27T11:59:00.935900 #8117]  INFO -- : unlinking existing socket=/var/run/rails-app-unicorn.sock
+I, [2016-02-27T11:59:00.936042 #8117]  INFO -- : listening on addr=/var/run/rails-app-unicorn.sock fd=11
+I, [2016-02-27T11:59:00.946759 #8117]  INFO -- : master process ready
+I, [2016-02-27T11:59:00.952210 #8121]  INFO -- : worker=0 ready
+I, [2016-02-27T11:59:00.955797 #8123]  INFO -- : worker=1 ready
+I, [2016-02-27T12:00:32.254910 #8117]  INFO -- : reaped #<Process::Status: pid 8121 exit 0> worker=0
+I, [2016-02-27T12:00:32.255014 #8117]  INFO -- : reaped #<Process::Status: pid 8123 exit 0> worker=1
+I, [2016-02-27T12:00:32.255089 #8117]  INFO -- : master complete
+I, [2016-02-27T12:02:04.896604 #8188]  INFO -- : Refreshing Gem list
+I, [2016-02-27T12:02:06.099305 #8188]  INFO -- : unlinking existing socket=/var/run/rails-app-unicorn.sock
+I, [2016-02-27T12:02:06.099468 #8188]  INFO -- : listening on addr=/var/run/rails-app-unicorn.sock fd=11
+I, [2016-02-27T12:02:06.109707 #8188]  INFO -- : master process ready
+I, [2016-02-27T12:02:06.116147 #8192]  INFO -- : worker=0 ready
+I, [2016-02-27T12:02:06.117172 #8194]  INFO -- : worker=1 ready
+E, [2016-02-27T12:02:11.838310 #8194] ERROR -- : app error: Missing `secret_token` and `secret_key_base` for 'production' environment, set these values in `config/secrets.yml` (RuntimeError)
+E, [2016-02-27T12:02:11.838394 #8194] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/railties-4.2.3/lib/rails/application.rb:534:in `validate_secret_key_config!'
+E, [2016-02-27T12:02:11.838419 #8194] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/railties-4.2.3/lib/rails/application.rb:246:in `env_config'
+E, [2016-02-27T12:02:11.838439 #8194] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/railties-4.2.3/lib/rails/engine.rb:514:in `call'
+E, [2016-02-27T12:02:11.838459 #8194] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/railties-4.2.3/lib/rails/application.rb:165:in `call'
+E, [2016-02-27T12:02:11.838478 #8194] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:562:in `process_client'
+E, [2016-02-27T12:02:11.838497 #8194] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:658:in `worker_loop'
+E, [2016-02-27T12:02:11.838516 #8194] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:508:in `spawn_missing_workers'
+E, [2016-02-27T12:02:11.838679 #8194] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:132:in `start'
+E, [2016-02-27T12:02:11.838697 #8194] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/bin/unicorn:126:in `<top (required)>'
+E, [2016-02-27T12:02:11.838711 #8194] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `load'
+E, [2016-02-27T12:02:11.838726 #8194] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `<main>'
+E, [2016-02-27T12:08:42.605565 #8192] ERROR -- : app error: Missing `secret_token` and `secret_key_base` for 'production' environment, set these values in `config/secrets.yml` (RuntimeError)
+E, [2016-02-27T12:08:42.605652 #8192] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/railties-4.2.3/lib/rails/application.rb:534:in `validate_secret_key_config!'
+E, [2016-02-27T12:08:42.605676 #8192] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/railties-4.2.3/lib/rails/application.rb:246:in `env_config'
+E, [2016-02-27T12:08:42.605694 #8192] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/railties-4.2.3/lib/rails/engine.rb:514:in `call'
+E, [2016-02-27T12:08:42.605714 #8192] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/railties-4.2.3/lib/rails/application.rb:165:in `call'
+E, [2016-02-27T12:08:42.605731 #8192] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:562:in `process_client'
+E, [2016-02-27T12:08:42.605747 #8192] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:658:in `worker_loop'
+E, [2016-02-27T12:08:42.605763 #8192] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:508:in `spawn_missing_workers'
+E, [2016-02-27T12:08:42.605818 #8192] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:132:in `start'
+E, [2016-02-27T12:08:42.605836 #8192] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/bin/unicorn:126:in `<top (required)>'
+E, [2016-02-27T12:08:42.605862 #8192] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `load'
+E, [2016-02-27T12:08:42.605879 #8192] ERROR -- : /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `<main>'
+I, [2016-02-27T12:09:43.314379 #8188]  INFO -- : reaped #<Process::Status: pid 8192 exit 0> worker=0
+I, [2016-02-27T12:09:43.314502 #8188]  INFO -- : reaped #<Process::Status: pid 8194 exit 0> worker=1
+I, [2016-02-27T12:09:43.314577 #8188]  INFO -- : master complete
+I, [2016-02-27T12:10:09.059362 #8284]  INFO -- : Refreshing Gem list
+I, [2016-02-27T12:10:10.260085 #8284]  INFO -- : unlinking existing socket=/var/run/rails-app-unicorn.sock
+I, [2016-02-27T12:10:10.260219 #8284]  INFO -- : listening on addr=/var/run/rails-app-unicorn.sock fd=11
+I, [2016-02-27T12:10:10.270398 #8284]  INFO -- : master process ready
+I, [2016-02-27T12:10:10.276074 #8288]  INFO -- : worker=0 ready
+I, [2016-02-27T12:10:10.279089 #8290]  INFO -- : worker=1 ready
+I, [2016-02-28T02:05:55.487368 #8284]  INFO -- : reaped #<Process::Status: pid 8288 exit 0> worker=0
+I, [2016-02-28T02:05:55.487459 #8284]  INFO -- : reaped #<Process::Status: pid 8290 exit 0> worker=1
+I, [2016-02-28T02:05:55.487516 #8284]  INFO -- : master complete
+I, [2016-02-28T11:27:40.251357 #31210]  INFO -- : Refreshing Gem list
+I, [2016-02-28T11:27:41.394229 #31210]  INFO -- : unlinking existing socket=/var/run/rails-app-unicorn.sock
+I, [2016-02-28T11:27:41.394365 #31210]  INFO -- : listening on addr=/var/run/rails-app-unicorn.sock fd=11
+I, [2016-02-28T11:27:41.404598 #31210]  INFO -- : master process ready
+I, [2016-02-28T11:27:41.412139 #31214]  INFO -- : worker=0 ready
+I, [2016-02-28T11:27:41.413002 #31216]  INFO -- : worker=1 ready
+I, [2016-02-28T11:30:07.838591 #31210]  INFO -- : reaped #<Process::Status: pid 31214 exit 0> worker=0
+I, [2016-02-28T11:30:07.838684 #31210]  INFO -- : reaped #<Process::Status: pid 31216 exit 0> worker=1
+I, [2016-02-28T11:30:07.838743 #31210]  INFO -- : master complete
+I, [2016-02-28T02:37:16.092666 #31421]  INFO -- : Refreshing Gem list
+I, [2016-02-28T02:37:17.260188 #31421]  INFO -- : unlinking existing socket=/var/run/rails-app-unicorn.sock
+I, [2016-02-28T02:37:17.260350 #31421]  INFO -- : listening on addr=/var/run/rails-app-unicorn.sock fd=11
+I, [2016-02-28T02:37:17.270846 #31421]  INFO -- : master process ready
+I, [2016-02-28T02:37:17.276141 #31425]  INFO -- : worker=0 ready
+I, [2016-02-28T02:37:17.280116 #31427]  INFO -- : worker=1 ready
+I, [2016-02-28T02:37:52.222370 #31421]  INFO -- : reaped #<Process::Status: pid 31427 exit 0> worker=1
+I, [2016-02-28T02:37:52.322795 #31421]  INFO -- : reaped #<Process::Status: pid 31425 exit 0> worker=0
+I, [2016-02-28T02:37:52.322914 #31421]  INFO -- : master complete
+I, [2016-02-28T02:39:40.772666 #31496]  INFO -- : Refreshing Gem list
+I, [2016-02-28T02:39:41.913766 #31496]  INFO -- : unlinking existing socket=/var/run/rails-app-unicorn.sock
+I, [2016-02-28T02:39:41.913934 #31496]  INFO -- : listening on addr=/var/run/rails-app-unicorn.sock fd=11
+I, [2016-02-28T02:39:41.924275 #31496]  INFO -- : master process ready
+I, [2016-02-28T02:39:41.932200 #31500]  INFO -- : worker=0 ready
+I, [2016-02-28T02:39:41.933178 #31502]  INFO -- : worker=1 ready
+I, [2016-02-28T02:40:29.010075 #31496]  INFO -- : reaped #<Process::Status: pid 31500 exit 0> worker=0
+I, [2016-02-28T02:40:29.110443 #31496]  INFO -- : reaped #<Process::Status: pid 31502 exit 0> worker=1
+I, [2016-02-28T02:40:29.110541 #31496]  INFO -- : master complete
+I, [2016-02-28T02:41:26.192380 #2303]  INFO -- : Refreshing Gem list
+I, [2016-02-28T02:41:28.386169 #2303]  INFO -- : listening on addr=/var/run/rails-app-unicorn.sock fd=11
+E, [2016-02-28T02:41:28.388920 #2303] ERROR -- : could not connect to server: No such file or directory
+	Is the server running locally and accepting
+	connections on Unix domain socket "/tmp/.s.PGSQL.5432"?
+ (PG::ConnectionBad)
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:655:in `initialize'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:655:in `new'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:655:in `connect'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:242:in `initialize'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `postgresql_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:438:in `new_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:448:in `checkout_new_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:422:in `acquire_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:349:in `block in checkout'
+/home/ec2-user/.rbenv/versions/2.2.3/lib/ruby/2.2.0/monitor.rb:211:in `mon_synchronize'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:348:in `checkout'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:263:in `block in connection'
+/home/ec2-user/.rbenv/versions/2.2.3/lib/ruby/2.2.0/monitor.rb:211:in `mon_synchronize'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:262:in `connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:571:in `retrieve_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_handling.rb:113:in `retrieve_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_handling.rb:87:in `connection'
+/home/ec2-user/rails_test/config/unicorn.rb:14:in `block in reload'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:502:in `call'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:502:in `spawn_missing_workers'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:132:in `start'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/bin/unicorn:126:in `<top (required)>'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `load'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `<main>'
+I, [2016-02-28T02:49:24.384130 #2341]  INFO -- : Refreshing Gem list
+I, [2016-02-28T02:49:26.556288 #2341]  INFO -- : listening on addr=/var/run/rails-app-unicorn.sock fd=11
+E, [2016-02-28T02:49:26.558879 #2341] ERROR -- : could not connect to server: No such file or directory
+	Is the server running locally and accepting
+	connections on Unix domain socket "/tmp/.s.PGSQL.5432"?
+ (PG::ConnectionBad)
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:655:in `initialize'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:655:in `new'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:655:in `connect'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:242:in `initialize'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `postgresql_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:438:in `new_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:448:in `checkout_new_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:422:in `acquire_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:349:in `block in checkout'
+/home/ec2-user/.rbenv/versions/2.2.3/lib/ruby/2.2.0/monitor.rb:211:in `mon_synchronize'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:348:in `checkout'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:263:in `block in connection'
+/home/ec2-user/.rbenv/versions/2.2.3/lib/ruby/2.2.0/monitor.rb:211:in `mon_synchronize'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:262:in `connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:571:in `retrieve_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_handling.rb:113:in `retrieve_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_handling.rb:87:in `connection'
+/home/ec2-user/rails_test/config/unicorn.rb:14:in `block in reload'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:502:in `call'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:502:in `spawn_missing_workers'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:132:in `start'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/bin/unicorn:126:in `<top (required)>'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `load'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `<main>'
+I, [2016-02-28T02:55:25.032054 #2574]  INFO -- : Refreshing Gem list
+I, [2016-02-28T02:55:26.204322 #2574]  INFO -- : unlinking existing socket=/var/run/rails-app-unicorn.sock
+I, [2016-02-28T02:55:26.204461 #2574]  INFO -- : listening on addr=/var/run/rails-app-unicorn.sock fd=11
+I, [2016-02-28T02:55:26.288524 #2574]  INFO -- : master process ready
+I, [2016-02-28T02:55:26.296465 #2578]  INFO -- : worker=0 ready
+I, [2016-02-28T02:55:26.297343 #2580]  INFO -- : worker=1 ready
+I, [2016-02-28T02:55:53.955443 #2574]  INFO -- : reaped #<Process::Status: pid 2578 exit 0> worker=0
+I, [2016-02-28T02:55:53.955552 #2574]  INFO -- : reaped #<Process::Status: pid 2580 exit 0> worker=1
+I, [2016-02-28T02:55:53.955610 #2574]  INFO -- : master complete
+I, [2016-02-28T03:17:29.441238 #2749]  INFO -- : Refreshing Gem list
+I, [2016-02-28T03:17:30.625526 #2749]  INFO -- : unlinking existing socket=/var/run/rails-app-unicorn.sock
+I, [2016-02-28T03:17:30.625671 #2749]  INFO -- : listening on addr=/var/run/rails-app-unicorn.sock fd=11
+I, [2016-02-28T03:17:30.636146 #2749]  INFO -- : master process ready
+I, [2016-02-28T03:17:30.644352 #2753]  INFO -- : worker=0 ready
+I, [2016-02-28T03:17:30.645369 #2755]  INFO -- : worker=1 ready
+I, [2016-02-28T03:18:13.499475 #2749]  INFO -- : reaped #<Process::Status: pid 2753 exit 0> worker=0
+I, [2016-02-28T03:18:13.599822 #2749]  INFO -- : reaped #<Process::Status: pid 2755 exit 0> worker=1
+I, [2016-02-28T03:18:13.599892 #2749]  INFO -- : master complete
+I, [2016-02-28T03:19:07.091507 #2341]  INFO -- : Refreshing Gem list
+I, [2016-02-28T03:19:09.298099 #2341]  INFO -- : listening on addr=/var/run/rails-app-unicorn.sock fd=11
+E, [2016-02-28T03:19:09.300942 #2341] ERROR -- : could not connect to server: No such file or directory
+	Is the server running locally and accepting
+	connections on Unix domain socket "/tmp/.s.PGSQL.5432"?
+ (PG::ConnectionBad)
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:655:in `initialize'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:655:in `new'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:655:in `connect'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:242:in `initialize'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `postgresql_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:438:in `new_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:448:in `checkout_new_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:422:in `acquire_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:349:in `block in checkout'
+/home/ec2-user/.rbenv/versions/2.2.3/lib/ruby/2.2.0/monitor.rb:211:in `mon_synchronize'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:348:in `checkout'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:263:in `block in connection'
+/home/ec2-user/.rbenv/versions/2.2.3/lib/ruby/2.2.0/monitor.rb:211:in `mon_synchronize'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:262:in `connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:571:in `retrieve_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_handling.rb:113:in `retrieve_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_handling.rb:87:in `connection'
+/home/ec2-user/rails_test/config/unicorn.rb:14:in `block in reload'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:502:in `call'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:502:in `spawn_missing_workers'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:132:in `start'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/bin/unicorn:126:in `<top (required)>'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `load'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `<main>'
+I, [2016-02-28T03:22:03.176056 #2574]  INFO -- : Refreshing Gem list
+I, [2016-02-28T03:22:04.327229 #2574]  INFO -- : unlinking existing socket=/var/run/rails-app-unicorn.sock
+I, [2016-02-28T03:22:04.327379 #2574]  INFO -- : listening on addr=/var/run/rails-app-unicorn.sock fd=11
+I, [2016-02-28T03:22:04.394728 #2574]  INFO -- : master process ready
+I, [2016-02-28T03:22:04.400935 #2578]  INFO -- : worker=0 ready
+I, [2016-02-28T03:22:04.403952 #2580]  INFO -- : worker=1 ready
+I, [2016-02-28T03:22:28.904190 #2574]  INFO -- : reaped #<Process::Status: pid 2578 exit 0> worker=0
+I, [2016-02-28T03:22:28.904304 #2574]  INFO -- : reaped #<Process::Status: pid 2580 exit 0> worker=1
+I, [2016-02-28T03:22:28.904373 #2574]  INFO -- : master complete
+I, [2016-02-28T03:22:52.632052 #2643]  INFO -- : Refreshing Gem list
+I, [2016-02-28T03:22:53.773106 #2643]  INFO -- : unlinking existing socket=/var/run/rails-app-unicorn.sock
+I, [2016-02-28T03:22:53.773246 #2643]  INFO -- : listening on addr=/var/run/rails-app-unicorn.sock fd=11
+I, [2016-02-28T03:22:53.783764 #2643]  INFO -- : master process ready
+I, [2016-02-28T03:22:53.788768 #2647]  INFO -- : worker=0 ready
+I, [2016-02-28T03:22:53.792122 #2649]  INFO -- : worker=1 ready
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:195:in `pid=': Already running on PID:2643 (or pid=/var/run/rails-app-unicorn.pid is stale) (ArgumentError)
+	from /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:127:in `start'
+	from /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/bin/unicorn:126:in `<top (required)>'
+	from /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `load'
+	from /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `<main>'
+I, [2016-02-28T03:41:01.181270 #2643]  INFO -- : reaped #<Process::Status: pid 2647 exit 0> worker=0
+I, [2016-02-28T03:41:01.281706 #2643]  INFO -- : reaped #<Process::Status: pid 2649 exit 0> worker=1
+I, [2016-02-28T03:41:01.281841 #2643]  INFO -- : master complete
+I, [2016-02-28T03:41:11.069327 #2801]  INFO -- : Refreshing Gem list
+I, [2016-02-28T03:41:12.249302 #2801]  INFO -- : unlinking existing socket=/var/run/rails-app-unicorn.sock
+I, [2016-02-28T03:41:12.249467 #2801]  INFO -- : listening on addr=/var/run/rails-app-unicorn.sock fd=11
+I, [2016-02-28T03:41:12.259446 #2801]  INFO -- : master process ready
+I, [2016-02-28T03:41:12.264842 #2805]  INFO -- : worker=0 ready
+I, [2016-02-28T03:41:12.268441 #2807]  INFO -- : worker=1 ready
+I, [2016-02-28T03:41:36.884749 #2801]  INFO -- : reaped #<Process::Status: pid 2805 exit 0> worker=0
+I, [2016-02-28T03:41:36.985182 #2801]  INFO -- : reaped #<Process::Status: pid 2807 exit 0> worker=1
+I, [2016-02-28T03:41:36.985309 #2801]  INFO -- : master complete
+I, [2016-02-28T03:42:32.474503 #2341]  INFO -- : Refreshing Gem list
+I, [2016-02-28T03:42:34.652915 #2341]  INFO -- : listening on addr=/var/run/rails-app-unicorn.sock fd=11
+E, [2016-02-28T03:42:34.655673 #2341] ERROR -- : could not connect to server: No such file or directory
+	Is the server running locally and accepting
+	connections on Unix domain socket "/tmp/.s.PGSQL.5432"?
+ (PG::ConnectionBad)
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:655:in `initialize'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:655:in `new'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:655:in `connect'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:242:in `initialize'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `postgresql_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:438:in `new_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:448:in `checkout_new_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:422:in `acquire_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:349:in `block in checkout'
+/home/ec2-user/.rbenv/versions/2.2.3/lib/ruby/2.2.0/monitor.rb:211:in `mon_synchronize'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:348:in `checkout'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:263:in `block in connection'
+/home/ec2-user/.rbenv/versions/2.2.3/lib/ruby/2.2.0/monitor.rb:211:in `mon_synchronize'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:262:in `connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:571:in `retrieve_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_handling.rb:113:in `retrieve_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_handling.rb:87:in `connection'
+/home/ec2-user/rails_test/config/unicorn.rb:14:in `block in reload'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:502:in `call'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:502:in `spawn_missing_workers'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:132:in `start'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/bin/unicorn:126:in `<top (required)>'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `load'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `<main>'
+I, [2016-02-28T03:50:21.800422 #2549]  INFO -- : Refreshing Gem list
+I, [2016-02-28T03:50:22.958302 #2549]  INFO -- : unlinking existing socket=/var/run/rails-app-unicorn.sock
+I, [2016-02-28T03:50:22.958444 #2549]  INFO -- : listening on addr=/var/run/rails-app-unicorn.sock fd=10
+I, [2016-02-28T03:50:23.023838 #2549]  INFO -- : master process ready
+I, [2016-02-28T03:50:23.024937 #2580]  INFO -- : worker=0 ready
+I, [2016-02-28T03:50:23.025803 #2582]  INFO -- : worker=1 ready
+I, [2016-02-28T03:50:42.890968 #2549]  INFO -- : reaped #<Process::Status: pid 2580 exit 0> worker=0
+I, [2016-02-28T03:50:42.891087 #2549]  INFO -- : reaped #<Process::Status: pid 2582 exit 0> worker=1
+I, [2016-02-28T03:50:42.891147 #2549]  INFO -- : master complete
+I, [2016-02-28T06:15:13.916443 #3100]  INFO -- : Refreshing Gem list
+I, [2016-02-28T06:15:15.092658 #3100]  INFO -- : unlinking existing socket=/var/run/rails-app-unicorn.sock
+I, [2016-02-28T06:15:15.092804 #3100]  INFO -- : listening on addr=/var/run/rails-app-unicorn.sock fd=11
+I, [2016-02-28T06:15:15.103261 #3100]  INFO -- : master process ready
+I, [2016-02-28T06:15:15.111048 #3104]  INFO -- : worker=0 ready
+I, [2016-02-28T06:15:15.111928 #3106]  INFO -- : worker=1 ready
+I, [2016-02-28T06:15:21.262166 #3100]  INFO -- : reaped #<Process::Status: pid 3104 exit 0> worker=0
+I, [2016-02-28T06:15:21.262256 #3100]  INFO -- : reaped #<Process::Status: pid 3106 exit 0> worker=1
+I, [2016-02-28T06:15:21.262314 #3100]  INFO -- : master complete
+I, [2016-02-28T06:16:26.212501 #3165]  INFO -- : Refreshing Gem list
+I, [2016-02-28T06:16:27.378026 #3165]  INFO -- : unlinking existing socket=/var/run/rails-app-unicorn.sock
+I, [2016-02-28T06:16:27.378180 #3165]  INFO -- : listening on addr=/var/run/rails-app-unicorn.sock fd=11
+I, [2016-02-28T06:16:27.388446 #3165]  INFO -- : master process ready
+I, [2016-02-28T06:16:27.395887 #3169]  INFO -- : worker=0 ready
+I, [2016-02-28T06:16:27.396888 #3171]  INFO -- : worker=1 ready
+I, [2016-02-28T06:16:55.844434 #3165]  INFO -- : reaped #<Process::Status: pid 3169 exit 0> worker=0
+I, [2016-02-28T06:16:55.844528 #3165]  INFO -- : reaped #<Process::Status: pid 3171 exit 0> worker=1
+I, [2016-02-28T06:16:55.844591 #3165]  INFO -- : master complete
+I, [2016-02-28T06:17:47.358427 #2342]  INFO -- : Refreshing Gem list
+I, [2016-02-28T06:17:49.515950 #2342]  INFO -- : listening on addr=/var/run/rails-app-unicorn.sock fd=11
+E, [2016-02-28T06:17:49.518562 #2342] ERROR -- : could not connect to server: No such file or directory
+	Is the server running locally and accepting
+	connections on Unix domain socket "/tmp/.s.PGSQL.5432"?
+ (PG::ConnectionBad)
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:655:in `initialize'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:655:in `new'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:655:in `connect'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:242:in `initialize'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `postgresql_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:438:in `new_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:448:in `checkout_new_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:422:in `acquire_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:349:in `block in checkout'
+/home/ec2-user/.rbenv/versions/2.2.3/lib/ruby/2.2.0/monitor.rb:211:in `mon_synchronize'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:348:in `checkout'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:263:in `block in connection'
+/home/ec2-user/.rbenv/versions/2.2.3/lib/ruby/2.2.0/monitor.rb:211:in `mon_synchronize'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:262:in `connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:571:in `retrieve_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_handling.rb:113:in `retrieve_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_handling.rb:87:in `connection'
+/home/ec2-user/rails_test/config/unicorn.rb:14:in `block in reload'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:502:in `call'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:502:in `spawn_missing_workers'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:132:in `start'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/bin/unicorn:126:in `<top (required)>'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `load'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `<main>'
+I, [2016-02-28T06:20:36.432371 #2564]  INFO -- : Refreshing Gem list
+I, [2016-02-28T06:20:37.626333 #2564]  INFO -- : unlinking existing socket=/var/run/rails-app-unicorn.sock
+I, [2016-02-28T06:20:37.626462 #2564]  INFO -- : listening on addr=/var/run/rails-app-unicorn.sock fd=11
+I, [2016-02-28T06:20:37.695851 #2564]  INFO -- : master process ready
+I, [2016-02-28T06:20:37.703653 #2568]  INFO -- : worker=0 ready
+I, [2016-02-28T06:20:37.704606 #2570]  INFO -- : worker=1 ready
+I, [2016-02-28T06:26:45.846298 #2564]  INFO -- : reaped #<Process::Status: pid 2568 exit 0> worker=0
+I, [2016-02-28T06:26:45.846401 #2564]  INFO -- : reaped #<Process::Status: pid 2570 exit 0> worker=1
+I, [2016-02-28T06:26:45.846478 #2564]  INFO -- : master complete
+I, [2016-02-28T06:27:36.631037 #2634]  INFO -- : Refreshing Gem list
+I, [2016-02-28T06:27:37.793345 #2634]  INFO -- : unlinking existing socket=/var/run/rails-app-unicorn.sock
+I, [2016-02-28T06:27:37.793488 #2634]  INFO -- : listening on addr=/var/run/rails-app-unicorn.sock fd=11
+I, [2016-02-28T06:27:37.804211 #2634]  INFO -- : master process ready
+I, [2016-02-28T06:27:37.811803 #2638]  INFO -- : worker=0 ready
+I, [2016-02-28T06:27:37.812759 #2640]  INFO -- : worker=1 ready
+I, [2016-02-28T06:27:43.405586 #2634]  INFO -- : reaped #<Process::Status: pid 2638 exit 0> worker=0
+I, [2016-02-28T06:27:43.405683 #2634]  INFO -- : reaped #<Process::Status: pid 2640 exit 0> worker=1
+I, [2016-02-28T06:27:43.405743 #2634]  INFO -- : master complete
+I, [2016-02-28T06:29:23.915015 #2702]  INFO -- : Refreshing Gem list
+I, [2016-02-28T06:29:25.084846 #2702]  INFO -- : unlinking existing socket=/var/run/rails-app-unicorn.sock
+I, [2016-02-28T06:29:25.084983 #2702]  INFO -- : listening on addr=/var/run/rails-app-unicorn.sock fd=11
+I, [2016-02-28T06:29:25.094859 #2702]  INFO -- : master process ready
+I, [2016-02-28T06:29:25.099694 #2706]  INFO -- : worker=0 ready
+I, [2016-02-28T06:29:25.103560 #2708]  INFO -- : worker=1 ready
+I, [2016-02-28T06:30:15.998278 #2702]  INFO -- : reaped #<Process::Status: pid 2706 exit 0> worker=0
+I, [2016-02-28T06:30:15.998386 #2702]  INFO -- : reaped #<Process::Status: pid 2708 exit 0> worker=1
+I, [2016-02-28T06:30:15.998445 #2702]  INFO -- : master complete
+I, [2016-02-28T06:37:59.188413 #2810]  INFO -- : Refreshing Gem list
+I, [2016-02-28T06:38:00.427250 #2810]  INFO -- : unlinking existing socket=/var/run/rails-app-unicorn.sock
+I, [2016-02-28T06:38:00.427389 #2810]  INFO -- : listening on addr=/var/run/rails-app-unicorn.sock fd=11
+I, [2016-02-28T06:38:00.438223 #2810]  INFO -- : master process ready
+I, [2016-02-28T06:38:00.443957 #2814]  INFO -- : worker=0 ready
+I, [2016-02-28T06:38:00.447673 #2816]  INFO -- : worker=1 ready
+I, [2016-02-28T06:38:05.693361 #2810]  INFO -- : reaped #<Process::Status: pid 2814 exit 0> worker=0
+I, [2016-02-28T06:38:05.693468 #2810]  INFO -- : reaped #<Process::Status: pid 2816 exit 0> worker=1
+I, [2016-02-28T06:38:05.693526 #2810]  INFO -- : master complete
+I, [2016-02-28T06:44:42.944350 #2923]  INFO -- : Refreshing Gem list
+I, [2016-02-28T06:44:44.143968 #2923]  INFO -- : unlinking existing socket=/var/run/rails-app-unicorn.sock
+I, [2016-02-28T06:44:44.144125 #2923]  INFO -- : listening on addr=/var/run/rails-app-unicorn.sock fd=11
+I, [2016-02-28T06:44:44.154644 #2923]  INFO -- : master process ready
+I, [2016-02-28T06:44:44.159720 #2927]  INFO -- : worker=0 ready
+I, [2016-02-28T06:44:44.163569 #2929]  INFO -- : worker=1 ready
+I, [2016-02-28T06:45:02.711118 #2923]  INFO -- : reaped #<Process::Status: pid 2927 exit 0> worker=0
+I, [2016-02-28T06:45:02.711238 #2923]  INFO -- : reaped #<Process::Status: pid 2929 exit 0> worker=1
+I, [2016-02-28T06:45:02.711313 #2923]  INFO -- : master complete
+I, [2016-02-28T06:45:12.399017 #3001]  INFO -- : Refreshing Gem list
+I, [2016-02-28T06:45:13.613963 #3001]  INFO -- : unlinking existing socket=/var/run/rails-app-unicorn.sock
+I, [2016-02-28T06:45:13.614126 #3001]  INFO -- : listening on addr=/var/run/rails-app-unicorn.sock fd=11
+I, [2016-02-28T06:45:13.624327 #3001]  INFO -- : master process ready
+I, [2016-02-28T06:45:13.631889 #3005]  INFO -- : worker=0 ready
+I, [2016-02-28T06:45:13.632880 #3007]  INFO -- : worker=1 ready
+I, [2016-02-28T06:45:34.984927 #3001]  INFO -- : reaped #<Process::Status: pid 3005 exit 0> worker=0
+I, [2016-02-28T06:45:34.985051 #3001]  INFO -- : reaped #<Process::Status: pid 3007 exit 0> worker=1
+I, [2016-02-28T06:45:34.985114 #3001]  INFO -- : master complete
+I, [2016-02-28T06:46:28.445521 #2347]  INFO -- : Refreshing Gem list
+I, [2016-02-28T06:46:30.656113 #2347]  INFO -- : listening on addr=/var/run/rails-app-unicorn.sock fd=11
+E, [2016-02-28T06:46:30.658793 #2347] ERROR -- : could not connect to server: No such file or directory
+	Is the server running locally and accepting
+	connections on Unix domain socket "/tmp/.s.PGSQL.5432"?
+ (PG::ConnectionBad)
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:655:in `initialize'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:655:in `new'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:655:in `connect'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:242:in `initialize'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `postgresql_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:438:in `new_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:448:in `checkout_new_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:422:in `acquire_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:349:in `block in checkout'
+/home/ec2-user/.rbenv/versions/2.2.3/lib/ruby/2.2.0/monitor.rb:211:in `mon_synchronize'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:348:in `checkout'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:263:in `block in connection'
+/home/ec2-user/.rbenv/versions/2.2.3/lib/ruby/2.2.0/monitor.rb:211:in `mon_synchronize'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:262:in `connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:571:in `retrieve_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_handling.rb:113:in `retrieve_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_handling.rb:87:in `connection'
+config/unicorn.rb:14:in `block in reload'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:502:in `call'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:502:in `spawn_missing_workers'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:132:in `start'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/bin/unicorn:126:in `<top (required)>'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `load'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `<main>'
+I, [2016-02-28T06:48:50.922612 #2582]  INFO -- : Refreshing Gem list
+I, [2016-02-28T06:48:52.078480 #2582]  INFO -- : unlinking existing socket=/var/run/rails-app-unicorn.sock
+I, [2016-02-28T06:48:52.078627 #2582]  INFO -- : listening on addr=/var/run/rails-app-unicorn.sock fd=11
+I, [2016-02-28T06:48:52.148097 #2582]  INFO -- : master process ready
+I, [2016-02-28T06:48:52.154256 #2586]  INFO -- : worker=0 ready
+I, [2016-02-28T06:48:52.157153 #2588]  INFO -- : worker=1 ready
+I, [2016-02-28T06:51:39.356665 #2582]  INFO -- : reaped #<Process::Status: pid 2586 exit 0> worker=0
+I, [2016-02-28T06:51:39.356754 #2582]  INFO -- : reaped #<Process::Status: pid 2588 exit 0> worker=1
+I, [2016-02-28T06:51:39.356814 #2582]  INFO -- : master complete
+I, [2016-02-28T06:51:43.802664 #2665]  INFO -- : Refreshing Gem list
+I, [2016-02-28T06:51:44.939490 #2665]  INFO -- : unlinking existing socket=/var/run/rails-app-unicorn.sock
+I, [2016-02-28T06:51:44.941552 #2665]  INFO -- : listening on addr=/var/run/rails-app-unicorn.sock fd=11
+I, [2016-02-28T06:51:44.952033 #2665]  INFO -- : master process ready
+I, [2016-02-28T06:51:44.958230 #2669]  INFO -- : worker=0 ready
+I, [2016-02-28T06:51:44.961365 #2671]  INFO -- : worker=1 ready
+I, [2016-02-28T06:52:02.415891 #2665]  INFO -- : reaped #<Process::Status: pid 2669 exit 0> worker=0
+I, [2016-02-28T06:52:02.415985 #2665]  INFO -- : reaped #<Process::Status: pid 2671 exit 0> worker=1
+I, [2016-02-28T06:52:02.416044 #2665]  INFO -- : master complete
+I, [2016-02-28T06:52:58.167533 #2346]  INFO -- : Refreshing Gem list
+I, [2016-02-28T06:53:00.282365 #2346]  INFO -- : listening on addr=/var/run/rails-app-unicorn.sock fd=11
+E, [2016-02-28T06:53:00.284827 #2346] ERROR -- : could not connect to server: No such file or directory
+	Is the server running locally and accepting
+	connections on Unix domain socket "/tmp/.s.PGSQL.5432"?
+ (PG::ConnectionBad)
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:655:in `initialize'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:655:in `new'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:655:in `connect'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:242:in `initialize'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `postgresql_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:438:in `new_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:448:in `checkout_new_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:422:in `acquire_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:349:in `block in checkout'
+/home/ec2-user/.rbenv/versions/2.2.3/lib/ruby/2.2.0/monitor.rb:211:in `mon_synchronize'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:348:in `checkout'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:263:in `block in connection'
+/home/ec2-user/.rbenv/versions/2.2.3/lib/ruby/2.2.0/monitor.rb:211:in `mon_synchronize'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:262:in `connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:571:in `retrieve_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_handling.rb:113:in `retrieve_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_handling.rb:87:in `connection'
+config/unicorn.rb:14:in `block in reload'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:502:in `call'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:502:in `spawn_missing_workers'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:132:in `start'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/bin/unicorn:126:in `<top (required)>'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `load'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `<main>'
+I, [2016-02-28T06:53:48.013824 #2579]  INFO -- : Refreshing Gem list
+I, [2016-02-28T06:53:49.151563 #2579]  INFO -- : unlinking existing socket=/var/run/rails-app-unicorn.sock
+I, [2016-02-28T06:53:49.151712 #2579]  INFO -- : listening on addr=/var/run/rails-app-unicorn.sock fd=11
+I, [2016-02-28T06:53:49.212275 #2579]  INFO -- : master process ready
+I, [2016-02-28T06:53:49.218584 #2583]  INFO -- : worker=0 ready
+I, [2016-02-28T06:53:49.221449 #2585]  INFO -- : worker=1 ready
+I, [2016-02-28T06:54:06.388534 #2579]  INFO -- : reaped #<Process::Status: pid 2583 exit 0> worker=0
+I, [2016-02-28T06:54:06.388645 #2579]  INFO -- : reaped #<Process::Status: pid 2585 exit 0> worker=1
+I, [2016-02-28T06:54:06.388705 #2579]  INFO -- : master complete
+I, [2016-02-28T06:54:59.071308 #2347]  INFO -- : Refreshing Gem list
+I, [2016-02-28T06:55:01.003760 #2347]  INFO -- : listening on addr=/var/run/rails-app-unicorn.sock fd=11
+E, [2016-02-28T06:55:01.006190 #2347] ERROR -- : could not connect to server: No such file or directory
+	Is the server running locally and accepting
+	connections on Unix domain socket "/tmp/.s.PGSQL.5432"?
+ (PG::ConnectionBad)
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:655:in `initialize'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:655:in `new'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:655:in `connect'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:242:in `initialize'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `postgresql_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:438:in `new_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:448:in `checkout_new_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:422:in `acquire_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:349:in `block in checkout'
+/home/ec2-user/.rbenv/versions/2.2.3/lib/ruby/2.2.0/monitor.rb:211:in `mon_synchronize'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:348:in `checkout'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:263:in `block in connection'
+/home/ec2-user/.rbenv/versions/2.2.3/lib/ruby/2.2.0/monitor.rb:211:in `mon_synchronize'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:262:in `connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:571:in `retrieve_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_handling.rb:113:in `retrieve_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_handling.rb:87:in `connection'
+config/unicorn.rb:14:in `block in reload'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:502:in `call'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:502:in `spawn_missing_workers'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:132:in `start'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/bin/unicorn:126:in `<top (required)>'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `load'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `<main>'
+I, [2016-02-28T06:56:37.085678 #2582]  INFO -- : Refreshing Gem list
+I, [2016-02-28T06:56:38.296068 #2582]  INFO -- : unlinking existing socket=/var/run/rails-app-unicorn.sock
+I, [2016-02-28T06:56:38.296243 #2582]  INFO -- : listening on addr=/var/run/rails-app-unicorn.sock fd=11
+I, [2016-02-28T06:56:38.345524 #2582]  INFO -- : master process ready
+I, [2016-02-28T06:56:38.353055 #2586]  INFO -- : worker=0 ready
+I, [2016-02-28T06:56:38.354069 #2588]  INFO -- : worker=1 ready
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:195:in `pid=': Already running on PID:2582 (or pid=/var/run/rails-app-unicorn.pid is stale) (ArgumentError)
+	from /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:127:in `start'
+	from /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/bin/unicorn:126:in `<top (required)>'
+	from /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `load'
+	from /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `<main>'
+I, [2016-02-28T08:44:18.297659 #2582]  INFO -- : reaped #<Process::Status: pid 2586 exit 0> worker=0
+I, [2016-02-28T08:44:18.297755 #2582]  INFO -- : reaped #<Process::Status: pid 2588 exit 0> worker=1
+I, [2016-02-28T08:44:18.297815 #2582]  INFO -- : master complete
+I, [2016-02-28T08:44:21.677605 #2974]  INFO -- : Refreshing Gem list
+I, [2016-02-28T08:44:22.838157 #2974]  INFO -- : unlinking existing socket=/var/run/rails-app-unicorn.sock
+I, [2016-02-28T08:44:22.838285 #2974]  INFO -- : listening on addr=/var/run/rails-app-unicorn.sock fd=11
+I, [2016-02-28T08:44:22.848202 #2974]  INFO -- : master process ready
+I, [2016-02-28T08:44:22.852971 #2978]  INFO -- : worker=0 ready
+I, [2016-02-28T08:44:22.856915 #2980]  INFO -- : worker=1 ready
+I, [2016-02-28T08:44:25.251422 #2974]  INFO -- : reaped #<Process::Status: pid 2978 exit 0> worker=0
+I, [2016-02-28T08:44:25.251514 #2974]  INFO -- : reaped #<Process::Status: pid 2980 exit 0> worker=1
+I, [2016-02-28T08:44:25.251599 #2974]  INFO -- : master complete
+I, [2016-02-28T08:44:27.177597 #3048]  INFO -- : Refreshing Gem list
+I, [2016-02-28T08:44:28.321292 #3048]  INFO -- : unlinking existing socket=/var/run/rails-app-unicorn.sock
+I, [2016-02-28T08:44:28.321429 #3048]  INFO -- : listening on addr=/var/run/rails-app-unicorn.sock fd=11
+I, [2016-02-28T08:44:28.332011 #3048]  INFO -- : master process ready
+I, [2016-02-28T08:44:28.337146 #3052]  INFO -- : worker=0 ready
+I, [2016-02-28T08:44:28.340714 #3054]  INFO -- : worker=1 ready
+I, [2016-02-28T08:44:45.888942 #3048]  INFO -- : reaped #<Process::Status: pid 3052 exit 0> worker=0
+I, [2016-02-28T08:44:45.889034 #3048]  INFO -- : reaped #<Process::Status: pid 3054 exit 0> worker=1
+I, [2016-02-28T08:44:45.889119 #3048]  INFO -- : master complete
+I, [2016-02-28T08:45:42.509417 #2345]  INFO -- : Refreshing Gem list
+I, [2016-02-28T08:45:44.695634 #2345]  INFO -- : listening on addr=/var/run/rails-app-unicorn.sock fd=11
+E, [2016-02-28T08:45:44.698196 #2345] ERROR -- : could not connect to server: No such file or directory
+	Is the server running locally and accepting
+	connections on Unix domain socket "/tmp/.s.PGSQL.5432"?
+ (PG::ConnectionBad)
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:655:in `initialize'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:655:in `new'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:655:in `connect'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:242:in `initialize'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `postgresql_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:438:in `new_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:448:in `checkout_new_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:422:in `acquire_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:349:in `block in checkout'
+/home/ec2-user/.rbenv/versions/2.2.3/lib/ruby/2.2.0/monitor.rb:211:in `mon_synchronize'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:348:in `checkout'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:263:in `block in connection'
+/home/ec2-user/.rbenv/versions/2.2.3/lib/ruby/2.2.0/monitor.rb:211:in `mon_synchronize'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:262:in `connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:571:in `retrieve_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_handling.rb:113:in `retrieve_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_handling.rb:87:in `connection'
+config/unicorn.rb:14:in `block in reload'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:502:in `call'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:502:in `spawn_missing_workers'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:132:in `start'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/bin/unicorn:126:in `<top (required)>'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `load'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `<main>'
+I, [2016-02-28T08:49:23.455221 #2595]  INFO -- : Refreshing Gem list
+I, [2016-02-28T08:49:24.619268 #2595]  INFO -- : unlinking existing socket=/var/run/rails-app-unicorn.sock
+I, [2016-02-28T08:49:24.619416 #2595]  INFO -- : listening on addr=/var/run/rails-app-unicorn.sock fd=11
+I, [2016-02-28T08:49:24.684763 #2595]  INFO -- : master process ready
+I, [2016-02-28T08:49:24.690636 #2599]  INFO -- : worker=0 ready
+I, [2016-02-28T08:49:24.694045 #2601]  INFO -- : worker=1 ready
+I, [2016-02-28T08:49:36.477061 #2595]  INFO -- : reaped #<Process::Status: pid 2599 exit 0> worker=0
+I, [2016-02-28T08:49:36.477154 #2595]  INFO -- : reaped #<Process::Status: pid 2601 exit 0> worker=1
+I, [2016-02-28T08:49:36.477212 #2595]  INFO -- : master complete
+I, [2016-02-28T08:49:47.526947 #2672]  INFO -- : Refreshing Gem list
+I, [2016-02-28T08:49:48.701541 #2672]  INFO -- : unlinking existing socket=/var/run/rails-app-unicorn.sock
+I, [2016-02-28T08:49:48.701697 #2672]  INFO -- : listening on addr=/var/run/rails-app-unicorn.sock fd=11
+I, [2016-02-28T08:49:48.712072 #2672]  INFO -- : master process ready
+I, [2016-02-28T08:49:48.718411 #2676]  INFO -- : worker=0 ready
+I, [2016-02-28T08:49:48.719321 #2678]  INFO -- : worker=1 ready
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:195:in `pid=': Already running on PID:2672 (or pid=/var/run/rails-app-unicorn.pid is stale) (ArgumentError)
+	from /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:127:in `start'
+	from /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/bin/unicorn:126:in `<top (required)>'
+	from /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `load'
+	from /home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `<main>'
+I, [2016-02-28T08:52:56.612060 #2672]  INFO -- : reaped #<Process::Status: pid 2676 exit 0> worker=0
+I, [2016-02-28T08:52:56.612161 #2672]  INFO -- : reaped #<Process::Status: pid 2678 exit 0> worker=1
+I, [2016-02-28T08:52:56.612222 #2672]  INFO -- : master complete
+I, [2016-02-28T08:53:29.306987 #2842]  INFO -- : Refreshing Gem list
+I, [2016-02-28T08:53:30.469480 #2842]  INFO -- : unlinking existing socket=/var/run/rails-app-unicorn.sock
+I, [2016-02-28T08:53:30.469650 #2842]  INFO -- : listening on addr=/var/run/rails-app-unicorn.sock fd=11
+I, [2016-02-28T08:53:30.479571 #2842]  INFO -- : master process ready
+I, [2016-02-28T08:53:30.486539 #2846]  INFO -- : worker=0 ready
+I, [2016-02-28T08:53:30.487516 #2848]  INFO -- : worker=1 ready
+I, [2016-02-28T08:53:38.817350 #2842]  INFO -- : reaped #<Process::Status: pid 2846 exit 0> worker=0
+I, [2016-02-28T08:53:38.817448 #2842]  INFO -- : reaped #<Process::Status: pid 2848 exit 0> worker=1
+I, [2016-02-28T08:53:38.817509 #2842]  INFO -- : master complete
+I, [2016-02-28T08:53:57.373723 #2917]  INFO -- : Refreshing Gem list
+I, [2016-02-28T08:53:58.551039 #2917]  INFO -- : unlinking existing socket=/var/run/rails-app-unicorn.sock
+I, [2016-02-28T08:53:58.551174 #2917]  INFO -- : listening on addr=/var/run/rails-app-unicorn.sock fd=11
+I, [2016-02-28T08:53:58.561390 #2917]  INFO -- : master process ready
+I, [2016-02-28T08:53:58.566479 #2921]  INFO -- : worker=0 ready
+I, [2016-02-28T08:53:58.570235 #2923]  INFO -- : worker=1 ready
+I, [2016-02-28T08:54:09.160958 #2917]  INFO -- : reaped #<Process::Status: pid 2921 exit 0> worker=0
+I, [2016-02-28T08:54:09.161079 #2917]  INFO -- : reaped #<Process::Status: pid 2923 exit 0> worker=1
+I, [2016-02-28T08:54:09.161131 #2917]  INFO -- : master complete
+I, [2016-02-28T08:55:11.429992 #2345]  INFO -- : Refreshing Gem list
+I, [2016-02-28T08:55:13.643621 #2345]  INFO -- : listening on addr=/var/run/rails-app-unicorn.sock fd=11
+E, [2016-02-28T08:55:13.646383 #2345] ERROR -- : could not connect to server: No such file or directory
+	Is the server running locally and accepting
+	connections on Unix domain socket "/tmp/.s.PGSQL.5432"?
+ (PG::ConnectionBad)
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:655:in `initialize'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:655:in `new'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:655:in `connect'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:242:in `initialize'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `postgresql_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:438:in `new_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:448:in `checkout_new_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:422:in `acquire_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:349:in `block in checkout'
+/home/ec2-user/.rbenv/versions/2.2.3/lib/ruby/2.2.0/monitor.rb:211:in `mon_synchronize'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:348:in `checkout'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:263:in `block in connection'
+/home/ec2-user/.rbenv/versions/2.2.3/lib/ruby/2.2.0/monitor.rb:211:in `mon_synchronize'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:262:in `connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:571:in `retrieve_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_handling.rb:113:in `retrieve_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_handling.rb:87:in `connection'
+config/unicorn.rb:14:in `block in reload'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:502:in `call'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:502:in `spawn_missing_workers'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:132:in `start'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/bin/unicorn:126:in `<top (required)>'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `load'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `<main>'
+I, [2016-02-28T08:55:22.467791 #2576]  INFO -- : Refreshing Gem list
+I, [2016-02-28T08:55:23.637803 #2576]  INFO -- : unlinking existing socket=/var/run/rails-app-unicorn.sock
+I, [2016-02-28T08:55:23.637935 #2576]  INFO -- : listening on addr=/var/run/rails-app-unicorn.sock fd=11
+I, [2016-02-28T08:55:23.699997 #2576]  INFO -- : master process ready
+I, [2016-02-28T08:55:23.707142 #2580]  INFO -- : worker=0 ready
+I, [2016-02-28T08:55:23.708089 #2582]  INFO -- : worker=1 ready
+I, [2016-02-28T08:55:47.003560 #2576]  INFO -- : reaped #<Process::Status: pid 2580 exit 0> worker=0
+I, [2016-02-28T08:55:47.003663 #2576]  INFO -- : reaped #<Process::Status: pid 2582 exit 0> worker=1
+I, [2016-02-28T08:55:47.003731 #2576]  INFO -- : master complete
+I, [2016-02-28T08:56:46.015989 #2346]  INFO -- : Refreshing Gem list
+I, [2016-02-28T08:56:47.924749 #2346]  INFO -- : listening on addr=/var/run/rails-app-unicorn.sock fd=11
+E, [2016-02-28T08:56:47.927322 #2346] ERROR -- : could not connect to server: No such file or directory
+	Is the server running locally and accepting
+	connections on Unix domain socket "/tmp/.s.PGSQL.5432"?
+ (PG::ConnectionBad)
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:655:in `initialize'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:655:in `new'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:655:in `connect'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:242:in `initialize'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `postgresql_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:438:in `new_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:448:in `checkout_new_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:422:in `acquire_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:349:in `block in checkout'
+/home/ec2-user/.rbenv/versions/2.2.3/lib/ruby/2.2.0/monitor.rb:211:in `mon_synchronize'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:348:in `checkout'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:263:in `block in connection'
+/home/ec2-user/.rbenv/versions/2.2.3/lib/ruby/2.2.0/monitor.rb:211:in `mon_synchronize'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:262:in `connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:571:in `retrieve_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_handling.rb:113:in `retrieve_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_handling.rb:87:in `connection'
+config/unicorn.rb:14:in `block in reload'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:502:in `call'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:502:in `spawn_missing_workers'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:132:in `start'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/bin/unicorn:126:in `<top (required)>'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `load'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `<main>'
+I, [2016-02-28T09:02:04.103571 #2346]  INFO -- : Refreshing Gem list
+I, [2016-02-28T09:02:05.961863 #2346]  INFO -- : listening on addr=/var/run/rails-app-unicorn.sock fd=11
+E, [2016-02-28T09:02:05.964498 #2346] ERROR -- : could not connect to server: No such file or directory
+	Is the server running locally and accepting
+	connections on Unix domain socket "/tmp/.s.PGSQL.5432"?
+ (PG::ConnectionBad)
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:655:in `initialize'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:655:in `new'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:655:in `connect'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:242:in `initialize'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `postgresql_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:438:in `new_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:448:in `checkout_new_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:422:in `acquire_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:349:in `block in checkout'
+/home/ec2-user/.rbenv/versions/2.2.3/lib/ruby/2.2.0/monitor.rb:211:in `mon_synchronize'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:348:in `checkout'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:263:in `block in connection'
+/home/ec2-user/.rbenv/versions/2.2.3/lib/ruby/2.2.0/monitor.rb:211:in `mon_synchronize'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:262:in `connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:571:in `retrieve_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_handling.rb:113:in `retrieve_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_handling.rb:87:in `connection'
+config/unicorn.rb:14:in `block in reload'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:502:in `call'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:502:in `spawn_missing_workers'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:132:in `start'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/bin/unicorn:126:in `<top (required)>'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `load'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `<main>'
+I, [2016-02-28T09:41:02.177851 #2650]  INFO -- : Refreshing Gem list
+I, [2016-02-28T09:41:03.338729 #2650]  INFO -- : unlinking existing socket=/var/run/rails-app-unicorn.sock
+I, [2016-02-28T09:41:03.338876 #2650]  INFO -- : listening on addr=/var/run/rails-app-unicorn.sock fd=11
+I, [2016-02-28T09:41:03.404095 #2650]  INFO -- : master process ready
+I, [2016-02-28T09:41:03.409212 #2654]  INFO -- : worker=0 ready
+I, [2016-02-28T09:41:03.412654 #2656]  INFO -- : worker=1 ready
+I, [2016-02-28T09:42:16.067549 #2650]  INFO -- : reaped #<Process::Status: pid 2654 exit 0> worker=0
+I, [2016-02-28T09:42:16.067647 #2650]  INFO -- : reaped #<Process::Status: pid 2656 exit 0> worker=1
+I, [2016-02-28T09:42:16.067718 #2650]  INFO -- : master complete
+I, [2016-02-28T09:43:14.509052 #2346]  INFO -- : Refreshing Gem list
+I, [2016-02-28T09:43:16.785615 #2346]  INFO -- : listening on addr=/var/run/rails-app-unicorn.sock fd=11
+E, [2016-02-28T09:43:16.788229 #2346] ERROR -- : could not connect to server: No such file or directory
+	Is the server running locally and accepting
+	connections on Unix domain socket "/tmp/.s.PGSQL.5432"?
+ (PG::ConnectionBad)
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:655:in `initialize'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:655:in `new'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:655:in `connect'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:242:in `initialize'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `postgresql_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:438:in `new_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:448:in `checkout_new_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:422:in `acquire_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:349:in `block in checkout'
+/home/ec2-user/.rbenv/versions/2.2.3/lib/ruby/2.2.0/monitor.rb:211:in `mon_synchronize'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:348:in `checkout'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:263:in `block in connection'
+/home/ec2-user/.rbenv/versions/2.2.3/lib/ruby/2.2.0/monitor.rb:211:in `mon_synchronize'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:262:in `connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:571:in `retrieve_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_handling.rb:113:in `retrieve_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_handling.rb:87:in `connection'
+config/unicorn.rb:14:in `block in reload'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:502:in `call'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:502:in `spawn_missing_workers'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:132:in `start'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/bin/unicorn:126:in `<top (required)>'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `load'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `<main>'
+I, [2016-02-28T10:24:48.730487 #2676]  INFO -- : Refreshing Gem list
+I, [2016-02-28T10:24:49.880643 #2676]  INFO -- : unlinking existing socket=/var/run/rails-app-unicorn.sock
+I, [2016-02-28T10:24:49.880790 #2676]  INFO -- : listening on addr=/var/run/rails-app-unicorn.sock fd=11
+I, [2016-02-28T10:24:49.947640 #2676]  INFO -- : master process ready
+I, [2016-02-28T10:24:49.954005 #2680]  INFO -- : worker=0 ready
+I, [2016-02-28T10:24:49.954935 #2682]  INFO -- : worker=1 ready
+I, [2016-02-28T10:25:16.043267 #2676]  INFO -- : reaped #<Process::Status: pid 2680 exit 0> worker=0
+I, [2016-02-28T10:25:16.043365 #2676]  INFO -- : reaped #<Process::Status: pid 2682 exit 0> worker=1
+I, [2016-02-28T10:25:16.043427 #2676]  INFO -- : master complete
+I, [2016-02-28T10:29:42.509246 #2815]  INFO -- : Refreshing Gem list
+I, [2016-02-28T10:29:43.710306 #2815]  INFO -- : unlinking existing socket=/var/run/rails-app-unicorn.sock
+I, [2016-02-28T10:29:43.710448 #2815]  INFO -- : listening on addr=/var/run/rails-app-unicorn.sock fd=11
+I, [2016-02-28T10:29:43.721127 #2815]  INFO -- : master process ready
+I, [2016-02-28T10:29:43.725995 #2819]  INFO -- : worker=0 ready
+I, [2016-02-28T10:29:43.729895 #2821]  INFO -- : worker=1 ready
+I, [2016-02-28T10:32:27.656110 #2815]  INFO -- : reaped #<Process::Status: pid 2819 exit 0> worker=0
+I, [2016-02-28T10:32:27.656220 #2815]  INFO -- : reaped #<Process::Status: pid 2821 exit 0> worker=1
+I, [2016-02-28T10:32:27.656290 #2815]  INFO -- : master complete
+I, [2016-02-28T10:33:27.425011 #2346]  INFO -- : Refreshing Gem list
+I, [2016-02-28T10:33:29.593660 #2346]  INFO -- : listening on addr=/var/run/rails-app-unicorn.sock fd=11
+E, [2016-02-28T10:33:29.596298 #2346] ERROR -- : could not connect to server: No such file or directory
+	Is the server running locally and accepting
+	connections on Unix domain socket "/tmp/.s.PGSQL.5432"?
+ (PG::ConnectionBad)
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:655:in `initialize'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:655:in `new'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:655:in `connect'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:242:in `initialize'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `postgresql_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:438:in `new_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:448:in `checkout_new_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:422:in `acquire_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:349:in `block in checkout'
+/home/ec2-user/.rbenv/versions/2.2.3/lib/ruby/2.2.0/monitor.rb:211:in `mon_synchronize'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:348:in `checkout'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:263:in `block in connection'
+/home/ec2-user/.rbenv/versions/2.2.3/lib/ruby/2.2.0/monitor.rb:211:in `mon_synchronize'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:262:in `connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:571:in `retrieve_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_handling.rb:113:in `retrieve_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_handling.rb:87:in `connection'
+config/unicorn.rb:14:in `block in reload'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:502:in `call'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:502:in `spawn_missing_workers'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:132:in `start'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/bin/unicorn:126:in `<top (required)>'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `load'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `<main>'
+I, [2016-02-29T01:32:05.090761 #5061]  INFO -- : Refreshing Gem list
+I, [2016-02-29T01:32:06.250558 #5061]  INFO -- : unlinking existing socket=/var/run/rails-app-unicorn.sock
+I, [2016-02-29T01:32:06.250692 #5061]  INFO -- : listening on addr=/var/run/rails-app-unicorn.sock fd=11
+I, [2016-02-29T01:32:06.320752 #5061]  INFO -- : master process ready
+I, [2016-02-29T01:32:06.326272 #5065]  INFO -- : worker=0 ready
+I, [2016-02-29T01:32:06.329455 #5067]  INFO -- : worker=1 ready
+I, [2016-02-29T01:33:55.533995 #5061]  INFO -- : reaped #<Process::Status: pid 5065 exit 0> worker=0
+I, [2016-02-29T01:33:55.534099 #5061]  INFO -- : reaped #<Process::Status: pid 5067 exit 0> worker=1
+I, [2016-02-29T01:33:55.534224 #5061]  INFO -- : master complete
+I, [2016-02-29T01:34:53.475410 #2345]  INFO -- : Refreshing Gem list
+I, [2016-02-29T01:34:55.682785 #2345]  INFO -- : listening on addr=/var/run/rails-app-unicorn.sock fd=11
+E, [2016-02-29T01:34:55.685457 #2345] ERROR -- : could not connect to server: No such file or directory
+	Is the server running locally and accepting
+	connections on Unix domain socket "/tmp/.s.PGSQL.5432"?
+ (PG::ConnectionBad)
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:655:in `initialize'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:655:in `new'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:655:in `connect'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:242:in `initialize'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `postgresql_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:438:in `new_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:448:in `checkout_new_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:422:in `acquire_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:349:in `block in checkout'
+/home/ec2-user/.rbenv/versions/2.2.3/lib/ruby/2.2.0/monitor.rb:211:in `mon_synchronize'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:348:in `checkout'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:263:in `block in connection'
+/home/ec2-user/.rbenv/versions/2.2.3/lib/ruby/2.2.0/monitor.rb:211:in `mon_synchronize'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:262:in `connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:571:in `retrieve_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_handling.rb:113:in `retrieve_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_handling.rb:87:in `connection'
+config/unicorn.rb:14:in `block in reload'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:502:in `call'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:502:in `spawn_missing_workers'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:132:in `start'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/bin/unicorn:126:in `<top (required)>'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `load'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `<main>'
+I, [2016-02-29T03:49:31.917063 #3029]  INFO -- : Refreshing Gem list
+I, [2016-02-29T03:49:33.073071 #3029]  INFO -- : unlinking existing socket=/var/run/rails-app-unicorn.sock
+I, [2016-02-29T03:49:33.073213 #3029]  INFO -- : listening on addr=/var/run/rails-app-unicorn.sock fd=11
+I, [2016-02-29T03:49:33.142125 #3029]  INFO -- : master process ready
+I, [2016-02-29T03:49:33.148303 #3033]  INFO -- : worker=0 ready
+I, [2016-02-29T03:49:33.151222 #3035]  INFO -- : worker=1 ready
+I, [2016-02-29T03:51:17.050512 #3029]  INFO -- : reaped #<Process::Status: pid 3033 exit 0> worker=0
+I, [2016-02-29T03:51:17.050602 #3029]  INFO -- : reaped #<Process::Status: pid 3035 exit 0> worker=1
+I, [2016-02-29T03:51:17.050658 #3029]  INFO -- : master complete
+I, [2016-02-29T03:52:09.593275 #2346]  INFO -- : Refreshing Gem list
+I, [2016-02-29T03:52:11.852825 #2346]  INFO -- : listening on addr=/var/run/rails-app-unicorn.sock fd=11
+E, [2016-02-29T03:52:11.855467 #2346] ERROR -- : could not connect to server: No such file or directory
+	Is the server running locally and accepting
+	connections on Unix domain socket "/tmp/.s.PGSQL.5432"?
+ (PG::ConnectionBad)
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:655:in `initialize'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:655:in `new'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:655:in `connect'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:242:in `initialize'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `new'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/postgresql_adapter.rb:44:in `postgresql_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:438:in `new_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:448:in `checkout_new_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:422:in `acquire_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:349:in `block in checkout'
+/home/ec2-user/.rbenv/versions/2.2.3/lib/ruby/2.2.0/monitor.rb:211:in `mon_synchronize'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:348:in `checkout'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:263:in `block in connection'
+/home/ec2-user/.rbenv/versions/2.2.3/lib/ruby/2.2.0/monitor.rb:211:in `mon_synchronize'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:262:in `connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:571:in `retrieve_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_handling.rb:113:in `retrieve_connection'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/activerecord-4.2.3/lib/active_record/connection_handling.rb:87:in `connection'
+config/unicorn.rb:14:in `block in reload'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:502:in `call'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:502:in `spawn_missing_workers'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/lib/unicorn/http_server.rb:132:in `start'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/gems/unicorn-5.0.1/bin/unicorn:126:in `<top (required)>'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `load'
+/home/ec2-user/rails_test/vendor/bundle/ruby/2.2.0/bin/unicorn:23:in `<main>'
