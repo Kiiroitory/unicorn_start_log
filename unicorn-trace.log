@@ -1,0 +1,336 @@
++ . /etc/rc.d/init.d/functions
+++ TEXTDOMAIN=initscripts
+++ umask 022
+++ PATH=/sbin:/usr/sbin:/bin:/usr/bin
+++ export PATH
+++ '[' -z '' ']'
+++ COLUMNS=80
+++ '[' -z '' ']'
++++ /sbin/consoletype
+++ CONSOLETYPE=pty
+++ '[' -f /etc/sysconfig/i18n -a -z '' -a -z '' ']'
+++ . /etc/profile.d/lang.sh
++++ sourced=0
++++ '[' -n '' ']'
++++ for langfile in /etc/sysconfig/i18n '"$HOME/.i18n"'
++++ '[' -f /etc/sysconfig/i18n ']'
++++ . /etc/sysconfig/i18n
+++++ LANG=en_US.UTF-8
++++ sourced=1
++++ for langfile in /etc/sysconfig/i18n '"$HOME/.i18n"'
++++ '[' -f /.i18n ']'
++++ '[' 1 = 1 ']'
++++ '[' -n en_US.UTF-8 ']'
++++ export LANG
++++ '[' -n '' ']'
++++ unset LC_ADDRESS
++++ '[' -n '' ']'
++++ unset LC_CTYPE
++++ '[' -n '' ']'
++++ unset LC_COLLATE
++++ '[' -n '' ']'
++++ unset LC_IDENTIFICATION
++++ '[' -n '' ']'
++++ unset LC_MEASUREMENT
++++ '[' -n '' ']'
++++ unset LC_MESSAGES
++++ '[' -n '' ']'
++++ unset LC_MONETARY
++++ '[' -n '' ']'
++++ unset LC_NAME
++++ '[' -n '' ']'
++++ unset LC_NUMERIC
++++ '[' -n '' ']'
++++ unset LC_PAPER
++++ '[' -n '' ']'
++++ unset LC_TELEPHONE
++++ '[' -n '' ']'
++++ unset LC_TIME
++++ '[' -n '' ']'
++++ unset LC_ALL
++++ '[' -n '' ']'
++++ unset LANGUAGE
++++ '[' -n '' ']'
++++ unset LINGUAS
++++ '[' -n '' ']'
++++ unset _XKB_CHARSET
++++ consoletype=pty
++++ '[' -z pty ']'
++++ '[' -n en_US.UTF-8 ']'
++++ case $LANG in
++++ '[' xterm-256color = linux ']'
++++ unset SYSFONTACM SYSFONT consoletype
++++ unset sourced
++++ unset langfile
+++ unset LANGSH_SOURCED
+++ '[' -z '' ']'
+++ '[' -f /etc/sysconfig/init ']'
+++ . /etc/sysconfig/init
++++ BOOTUP=color
++++ RES_COL=60
++++ MOVE_TO_COL='echo -en \033[60G'
++++ SETCOLOR_SUCCESS='echo -en \033[0;32m'
++++ SETCOLOR_FAILURE='echo -en \033[0;31m'
++++ SETCOLOR_WARNING='echo -en \033[0;33m'
++++ SETCOLOR_NORMAL='echo -en \033[0;39m'
++++ PROMPT=yes
++++ AUTOSWAP=no
++++ ACTIVE_CONSOLES='/dev/tty[1-6]'
++++ SINGLE=/sbin/sushell
+++ '[' pty = serial ']'
+++ __sed_discard_ignored_files='/\(~\|\.bak\|\.orig\|\.rpmnew\|\.rpmorig\|\.rpmsave\)$/d'
++ PROG_NAME=unicorn
++ APP_ROOT=/home/ec2-user/rails_test
++ ENV=production
++ PID_FILE=/var/run/rails-app-unicorn.pid
++ LOCK_FILE=/var/lock/subsys/unicorn
++ CONF=config/unicorn.rb
++ CMD='bundle exec unicorn -c config/unicorn.rb -E production -D'
+++ wc -l
+++ grep -v grep
+++ grep config/unicorn.rb
+++ ps aux
++ UNICORN_ALIVE=0
++ export PATH=/home/ec2-user/.rbenv/shims:/home/ec2-user/.rbenv/bin:/sbin:/usr/sbin:/bin:/usr/bin
++ PATH=/home/ec2-user/.rbenv/shims:/home/ec2-user/.rbenv/bin:/sbin:/usr/sbin:/bin:/usr/bin
++ cd /home/ec2-user/rails_test
++ case $1 in
++ start
++ daemon bundle exec unicorn -c config/unicorn.rb -E production -D
++ local gotbase= force= nicelevel corelimit
++ local pid base= user= nice= bg= pid_file=
++ local cgroup=
++ nicelevel=0
++ '[' bundle '!=' bundle ']'
++ '[' -z '' ']'
++ base=bundle
++ __pids_var_run bundle ''
++ local base=bundle
++ local pid_file=/var/run/bundle.pid
++ local binary=
++ pid=
++ '[' -f /var/run/bundle.pid ']'
++ return 3
++ '[' -n '' -a -z '' ']'
++ corelimit='ulimit -S -c 0'
++ '[' -n '' ']'
++ '[' -n '' ']'
++ '[' color = verbose -a -z '' ']'
++ '[' -z '' ']'
++ /bin/bash -c 'ulimit -S -c 0 >/dev/null 2>&1 ; bundle exec unicorn -c config/unicorn.rb -E production -D'
++ '[' 0 -eq 0 ']'
++ success 'bundle startup'
++ '[' color '!=' verbose -a -z '' ']'
++ echo_success
++ '[' color = color ']'
++ echo -en '\033[60G'
++ echo -n '['
++ '[' color = color ']'
++ echo -en '\033[0;32m'
++ echo -n '  OK  '
++ '[' color = color ']'
++ echo -en '\033[0;39m'
++ echo -n ']'
++ echo -ne '\r'
++ return 0
++ return 0
++ touch /var/lock/subsys/unicorn
++ set +x
++ . /etc/rc.d/init.d/functions
+++ TEXTDOMAIN=initscripts
+++ umask 022
+++ PATH=/sbin:/usr/sbin:/bin:/usr/bin
+++ export PATH
+++ '[' -z '' ']'
+++ COLUMNS=80
+++ '[' -z serial ']'
+++ '[' -f /etc/sysconfig/i18n -a -z '' -a -z 1 ']'
+++ '[' -z '' ']'
+++ '[' -f /etc/sysconfig/init ']'
+++ . /etc/sysconfig/init
++++ BOOTUP=color
++++ RES_COL=60
++++ MOVE_TO_COL='echo -en \033[60G'
++++ SETCOLOR_SUCCESS='echo -en \033[0;32m'
++++ SETCOLOR_FAILURE='echo -en \033[0;31m'
++++ SETCOLOR_WARNING='echo -en \033[0;33m'
++++ SETCOLOR_NORMAL='echo -en \033[0;39m'
++++ PROMPT=yes
++++ AUTOSWAP=no
++++ ACTIVE_CONSOLES='/dev/tty[1-6]'
++++ SINGLE=/sbin/sushell
+++ '[' serial = serial ']'
+++ BOOTUP=serial
+++ MOVE_TO_COL=
+++ SETCOLOR_SUCCESS=
+++ SETCOLOR_FAILURE=
+++ SETCOLOR_WARNING=
+++ SETCOLOR_NORMAL=
+++ __sed_discard_ignored_files='/\(~\|\.bak\|\.orig\|\.rpmnew\|\.rpmorig\|\.rpmsave\)$/d'
++ PROG_NAME=unicorn
++ APP_ROOT=/home/ec2-user/rails_test
++ ENV=production
++ PID_FILE=/var/run/rails-app-unicorn.pid
++ LOCK_FILE=/var/lock/subsys/unicorn
++ CONF=config/unicorn.rb
++ CMD='bundle exec unicorn -c config/unicorn.rb -E production -D'
+++ wc -l
+++ grep -v grep
+++ grep config/unicorn.rb
+++ ps aux
++ UNICORN_ALIVE=3
++ export PATH=/home/ec2-user/.rbenv/shims:/home/ec2-user/.rbenv/bin:/sbin:/usr/sbin:/bin:/usr/bin
++ PATH=/home/ec2-user/.rbenv/shims:/home/ec2-user/.rbenv/bin:/sbin:/usr/sbin:/bin:/usr/bin
++ cd /home/ec2-user/rails_test
++ case $1 in
++ killproc -p /var/run/rails-app-unicorn.pid unicorn -QUIT
++ local RC killlevel= base pid pid_file= delay try binary=
++ RC=0
++ delay=3
++ try=0
++ '[' 4 -eq 0 ']'
++ '[' -p = -p ']'
++ pid_file=/var/run/rails-app-unicorn.pid
++ shift 2
++ '[' unicorn = -b ']'
++ '[' unicorn = -d ']'
++ '[' -n -QUIT ']'
++ killlevel=-QUIT
++ base=unicorn
++ __pids_var_run unicorn /var/run/rails-app-unicorn.pid ''
++ local base=unicorn
++ local pid_file=/var/run/rails-app-unicorn.pid
++ local binary=
++ pid=
++ '[' -f /var/run/rails-app-unicorn.pid ']'
++ local line p
++ '[' '!' -r /var/run/rails-app-unicorn.pid ']'
++ :
++ read line
++ '[' -z 5061 ']'
++ for p in '$line'
++ '[' -z '' -a -d /proc/5061 ']'
++ '[' -n '' ']'
++ pid=' 5061'
++ :
++ read line
++ '[' -z '' ']'
++ break
++ '[' -n ' 5061' ']'
++ return 0
++ RC=0
++ '[' -z ' 5061' ']'
++ '[' -n ' 5061' ']'
++ '[' serial = verbose -a -z '' ']'
++ '[' -z -QUIT ']'
++ checkpid 5061
++ local i
++ for i in '$*'
++ '[' -d /proc/5061 ']'
++ return 0
++ kill -QUIT 5061
++ RC=0
++ '[' 0 -eq 0 ']'
++ success 'unicorn -QUIT'
++ '[' serial '!=' verbose -a -z '' ']'
++ echo_success
++ '[' serial = color ']'
++ echo -n '['
++ '[' serial = color ']'
++ echo -n '  OK  '
++ '[' serial = color ']'
++ echo -n ']'
++ echo -ne '\r'
++ return 0
++ return 0
++ '[' -z -QUIT ']'
++ return 0
++ rm -f /var/lock/subsys/unicorn
++ set +x
++ . /etc/rc.d/init.d/functions
+++ TEXTDOMAIN=initscripts
+++ umask 022
+++ PATH=/sbin:/usr/sbin:/bin:/usr/bin
+++ export PATH
+++ '[' -z '' ']'
+++ COLUMNS=80
+++ '[' -z serial ']'
+++ '[' -f /etc/sysconfig/i18n -a -z '' -a -z 1 ']'
+++ '[' -z '' ']'
+++ '[' -f /etc/sysconfig/init ']'
+++ . /etc/sysconfig/init
++++ BOOTUP=color
++++ RES_COL=60
++++ MOVE_TO_COL='echo -en \033[60G'
++++ SETCOLOR_SUCCESS='echo -en \033[0;32m'
++++ SETCOLOR_FAILURE='echo -en \033[0;31m'
++++ SETCOLOR_WARNING='echo -en \033[0;33m'
++++ SETCOLOR_NORMAL='echo -en \033[0;39m'
++++ PROMPT=yes
++++ AUTOSWAP=no
++++ ACTIVE_CONSOLES='/dev/tty[1-6]'
++++ SINGLE=/sbin/sushell
+++ '[' serial = serial ']'
+++ BOOTUP=serial
+++ MOVE_TO_COL=
+++ SETCOLOR_SUCCESS=
+++ SETCOLOR_FAILURE=
+++ SETCOLOR_WARNING=
+++ SETCOLOR_NORMAL=
+++ __sed_discard_ignored_files='/\(~\|\.bak\|\.orig\|\.rpmnew\|\.rpmorig\|\.rpmsave\)$/d'
++ PROG_NAME=unicorn
++ APP_ROOT=/home/ec2-user/rails_test
++ ENV=production
++ PID_FILE=/var/run/rails-app-unicorn.pid
++ LOCK_FILE=/var/lock/subsys/unicorn
++ CONF=config/unicorn.rb
++ CMD='bundle exec unicorn -c config/unicorn.rb -E production -D'
+++ wc -l
+++ grep -v grep
+++ grep config/unicorn.rb
+++ ps aux
++ UNICORN_ALIVE=0
++ export PATH=/home/ec2-user/.rbenv/shims:/home/ec2-user/.rbenv/bin:/sbin:/usr/sbin:/bin:/usr/bin
++ PATH=/home/ec2-user/.rbenv/shims:/home/ec2-user/.rbenv/bin:/sbin:/usr/sbin:/bin:/usr/bin
++ cd /home/ec2-user/rails_test
++ case $1 in
++ start
++ daemon bundle exec unicorn -c config/unicorn.rb -E production -D
++ local gotbase= force= nicelevel corelimit
++ local pid base= user= nice= bg= pid_file=
++ local cgroup=
++ nicelevel=0
++ '[' bundle '!=' bundle ']'
++ '[' -z '' ']'
++ base=bundle
++ __pids_var_run bundle ''
++ local base=bundle
++ local pid_file=/var/run/bundle.pid
++ local binary=
++ pid=
++ '[' -f /var/run/bundle.pid ']'
++ return 3
++ '[' -n '' -a -z '' ']'
++ corelimit='ulimit -S -c 0'
++ '[' -n '' ']'
++ '[' -n '' ']'
++ '[' serial = verbose -a -z '' ']'
++ '[' -z '' ']'
++ /bin/bash -c 'ulimit -S -c 0 >/dev/null 2>&1 ; bundle exec unicorn -c config/unicorn.rb -E production -D'
++ '[' 1 -eq 0 ']'
++ failure 'bundle startup'
++ local rc=1
++ '[' serial '!=' verbose -a -z '' ']'
++ echo_failure
++ '[' serial = color ']'
++ echo -n '['
++ '[' serial = color ']'
++ echo -n FAILED
++ '[' serial = color ']'
++ echo -n ']'
++ echo -ne '\r'
++ return 1
++ '[' -x /bin/plymouth ']'
++ return 1
++ touch /var/lock/subsys/unicorn
++ set +x
